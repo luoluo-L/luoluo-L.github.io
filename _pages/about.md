@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "personal websites template"
+title: "personal websites [pages under construction]"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
