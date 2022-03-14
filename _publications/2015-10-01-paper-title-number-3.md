@@ -1,15 +1,39 @@
 ---
-title: "Paper Title Number 3"
+title: "Identify comorbidities associated with recurrent ED and in-patient visits"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
+date: 2022-03-12
 venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: 'https://arxiv.org/abs/2110.13769'
+<!--
 citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+-->
 ---
-This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+Background
+-----
+
+- Recurrent patients (RP), also known as ”frequent flyers”, ”high utilizers”, or ”super users” in hospitals, are a **small** group; however, they impose a **disproportionately high** utilization of resources.
+
+- Two major types of reasons reported from literature: 1. mental health or substance (drug and/or alcohol) abuse  2. Some chronic diseases such as AIDS
+
+- Social-behavioral interventions and outpatient care could be introduced to reduce future recurrent visits.
+
+- No standardized criteria on identify RP, lack of tools on selecting top reasons associated with recurrent visits.
+
+
+Objectives: identify RP & rank top factors associated with recurrent visits
+-----
+
+1. identify high utilizers / recurrent patients
+2. interpretable method to identify top-X (from on avg. 7+ from past visits) comorbidities associated with their frequent visits
+
+
+![Recurrent Patient Framework](<img src='/_publications/msar_rp/framework.png'>)
+
+
+
+[Download paper here](https://arxiv.org/abs/2110.13769)
 
 Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
