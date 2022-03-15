@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "personal website [pages are under construction]"
+title: "personal website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -31,7 +31,7 @@ Various applications types: natural & medical image processing, physiological ti
 
 Placeholder
 
-#### New Miscellaneous:
+### New Miscellaneous:
 
 Placeholder
 

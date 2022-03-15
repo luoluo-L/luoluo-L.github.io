@@ -1,2 +1,7 @@
 _site/
+*.bak
+
+**/.idea
+**/__pycache__
+**/.ipynb_checkpoints
 
