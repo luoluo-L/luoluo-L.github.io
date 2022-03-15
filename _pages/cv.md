@@ -11,30 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Electrical and Computer Engineering, The Johns Hopkins University, 2014
+* M.S. in Applied Mathematics and Statistics, The Johns Hopkins University, 2019
+* Ph.D in Electrical and Computer Engineering, The Johns Hopkins University, 2019
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2020-present: AI healthcare scientist
+  * Philips Research North America
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer-Winter 2019: Algorithm Engineer
+  * Healthcare startup 
+  * Duties included: Algorithm innovations to address class imbalance and intra-class variants 
+
+* Summer 2018: Deep Learning Intern
+  * Siemens Healthineers
+  * Duties included: Deep learning framework on scoring motion-corrupted MRI scansdeep learning framework on scoring motion-corrupted MRI scans
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Artificial Intelligence, Machine Learning, Deep Learning, Signal Processing
+* Complex problem solving
+* Effective Communication
+
 
 Publications
 ======
@@ -56,4 +56,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* reviewers in multiple IEEE conferences and journals

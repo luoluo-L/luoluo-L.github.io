@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-### About me
+## About me
 
 8 years experience in Machine Learning, Deep Learning, Artificial Intelligence, sparse representation theory, Signal processing;
 
@@ -19,15 +19,15 @@ Various applications types: natural & medical image processing, physiological ti
 8 years experience in Algorithm Innovations in Artifical Intelligence, ~20 AI algorithm innovations, 2 patents and 3 grant proposals.
 
 
-### News:
+## News:
 
-#### New algorithm:
+### New algorithm:
 [MSAR: interpretable framework to identify comorbidities associated with ED and in-patient recurrent visits](../_publications/2022-03-12-msar_rp.md)
 
 <img src='images/msar_rp/msar_summary.png'>
 
 
-#### New blogs:
+### New blogs:
 
 Placeholder
 
