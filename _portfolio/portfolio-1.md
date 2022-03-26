@@ -1,7 +1,23 @@
 ---
-title: "Portfolio template item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "DIY suede cover for heel covers"
+excerpt: "This DIY suede cover can largely increases the life of heel protectors/covers for dance shoes <br/><img src='/images/500x300.png'>"
 collection: miscellaneous
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Increasing life of heel protectors/covers for dance shoes: DIY suede cover for heel covers
+----
+
+Step 1: 
+<br/><img src='/images/post_heel_cover/draw.jpeg'>
+
+
+<br/><img src='/images/post_heel_cover/fold.jpeg'>
+
+<br/><img src='/images/post_heel_cover/glue_off.jpeg'>
+
+
+<br/><img src='/images/post_heel_cover/final_ori.jpeg'>
+
+
+
+<br/><img src='/images/post_heel_cover/put_on.jpeg'>
