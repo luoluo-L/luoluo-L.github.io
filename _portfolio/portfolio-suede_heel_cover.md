@@ -8,7 +8,7 @@ date: 2022-01-15
 Increasing life of heel protectors/covers for dance shoes: DIY suede cover for heel covers
 ----
 
-Dance heel protectors/ heel covers are cosumerables and usually doesn't last very long. This invention of DIY suede cover largely increases lige of heel protectors. 
+Dance heel protectors/ heel covers are cosumerables and they don't usually last very long. This invention of DIY suede cover largely increase lifes of heel protectors. 
 
 What you need: 
 * suede sheet with adhesive layer
