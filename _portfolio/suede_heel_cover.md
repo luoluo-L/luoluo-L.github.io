@@ -1,6 +1,7 @@
 ---
 title: "DIY suede cover for heel covers"
 excerpt: "This DIY suede cover can largely increases the life of heel protectors/covers for dance shoes <br/><img src='/images/500x300.png'>"
+date: 2022-01-15
 collection: miscellaneous
 ---
 
