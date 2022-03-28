@@ -33,8 +33,7 @@ Blogs about data science and machine learning.
 ### New Miscellaneous:
 
 Original card design. Best wishes to the year 2022. Copyright protected.
-
- <br/><img src='/images/misc/best_wishes_4_2022.gif' width='200'>
+ <br/><img src='/images/misc/best_wishes_4_2022.gif' width='400'>
  
 
 
