@@ -17,7 +17,7 @@ repository               : "lydia777/lydia777.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true
+future                   : false # deflaut is true, we set it to false
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Luoluo"
+  name             : "Luoluo (pronunciation: Lu-oh Lu-oh)"
   avatar           : "bio-pic.jpg"
   bio              : "AI Specialist"
   location         : "Location"
