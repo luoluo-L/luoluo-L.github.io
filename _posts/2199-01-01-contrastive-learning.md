@@ -1,5 +1,5 @@
 ---
-title: 'contrastive learning'
+title: 'notes for contrastive learning'
 date: 2199-01-01
 permalink: /posts/2022/03/blog-post-1/
 tags:
