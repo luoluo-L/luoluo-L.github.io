@@ -28,13 +28,14 @@ Various applications types: natural & medical image processing, physiological ti
 
 
 ### New blogs:
-
-Placeholder
+Blogs about data science and machine learning.
 
 ### New Miscellaneous:
 
-Placeholder
+Original card design. Best wishes to the year 2022. Copyright protected.
 
+ <br/><img src='/images/misc/best_wishes_4_2022.gif' width='200'>
+ 
 
 
 <!--
