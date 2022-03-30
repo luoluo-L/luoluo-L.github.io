@@ -39,7 +39,7 @@ In Linux system, this file is usually under ```env_dir\Scripts```.
 ------
 We here provide a sample Bat Script ```foo.bat``` to help you set up.
 
-```bash
+```bat
 REM reset path and activate the virtual environment 
 set original_dir = %CD%
 REM os
@@ -54,7 +54,7 @@ Since windows cannot automatically change disk, if python env is installed
 in a different disk than the python code. Then manually switching is needed.
 For example, python code is under D disk and env is under C disk, here we do: ```D:``` before running the python code. 
 
-```bash
+```bat
 REM run the python code
 Path_to_code\sample_code.py
 
