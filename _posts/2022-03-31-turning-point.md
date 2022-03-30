@@ -1,11 +1,11 @@
 ---
 title: 'Reverse gradient searching for turning point'
-date: 2022-04-01
-permalink: /posts/2022/04/blog-post-1/
+date: 2022-03-31
+permalink: /posts/2022/03/blog-post-1/
 tags:
   - signal processing
   - turning points detection
-  - in progress
+  - gradient zero crossings
 ---
 
 Finding turning points through reverse gradient searching
