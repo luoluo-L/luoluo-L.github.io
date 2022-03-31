@@ -1,7 +1,7 @@
 ---
 title: 'Reverse gradient searching for turning point'
 date: 2022-03-31
-permalink: /posts/2022/03/blog-post-1/
+permalink: /posts/2022/03/signal-processing/
 tags:
   - signal processing
   - turning points detection
