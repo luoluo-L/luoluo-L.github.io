@@ -33,7 +33,6 @@ def get_gradient_zero_point(y):
     zero_crossings = np.where(np.diff(np.sign(y_gradient)))[0]
 
     return zero_crossings
-
 ```
 
 Example results
@@ -48,7 +47,6 @@ x = np.arange(0, 1000, 1)
 y_first_half =  0.1* (x[0:500] - 500)
 y_second_half = - (x[500:] - 500)**2 * 0.01
 y_concatinate = np.concatenate([y_first_half,y_second_half], axis=0)
-
 ```
 <img src='/images/turning_pts_demos/y_con_zerocrossings.png'>
 
@@ -59,7 +57,6 @@ Zero crossing points are no longer unique.
 ```python
 y_noise =-0.01* (x[400:480] - 440)**2 
 y_noise = y_noise - np.min(y_noise)
-
 
 y_concatinate_add_fusion = y_concatinate.copy()
 y_concatinate_add_fusion[400:480] = y_concatinate_add_fusion[400:480] + y_noise
