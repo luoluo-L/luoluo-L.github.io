@@ -31,17 +31,14 @@ def get_gradient_zero_point(y):
     y_gradient = np.gradient(y)
     # detect zero crossings
     zero_crossings = np.where(np.diff(np.sign(y_gradient)))[0]
-
     return zero_crossings
 ```
 
 Example results
 --
+We first simulate signal in a simple case. In this case, turning point can be detected using maximun point detection and detecting zero-crossing for gradient.
 
-Simulate signal: 
-
-
-```python
+```python 
 # simulate a curve with turning point
 x = np.arange(0, 1000, 1)
 y_first_half =  0.1* (x[0:500] - 500)
