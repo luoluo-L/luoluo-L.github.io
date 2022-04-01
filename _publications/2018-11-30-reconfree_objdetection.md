@@ -1,7 +1,7 @@
 ---
 title: "Reconstruction-free deep convolutional neural networks for partially observed images"
 collection: publications
-permalink: /publication/2018-11-recon-free-obj-detection
+permalink: /publication/2018-11-30-reconfree_objdetection
 excerpt: 'Reconstruction-free (imputation-free) object detection on any observed patterns'
 date: 2018-11-30
 ---
