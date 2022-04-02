@@ -8,11 +8,10 @@ tags:
   - gradient zero crossings
 ---
 
-Finding turning points through reverse gradient searching
-----
 
-Background: 
-reverse gradient searching for finding turning points. 
+Background 
+--
+This note summerizes using a simple and efficient trick: reverse gradient searching for finding turning points in noisy cases. 
 
 Two basic methods: 1. taking maximum. 2. take zero crossing points for gradient of the signal. Here are sample codes.
 
