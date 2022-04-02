@@ -8,7 +8,7 @@ tags:
 
 I here list some different challenges in data labels that I encountered in the past and ways to model them.
 
-- Label bias from different annotators
+- Label variances from different annotators
 
 - multi-label 
 
