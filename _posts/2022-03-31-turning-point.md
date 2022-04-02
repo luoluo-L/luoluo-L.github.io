@@ -9,10 +9,11 @@ tags:
 ---
 
 
-Background 
---
+
 This note summerizes using a simple and efficient trick: reverse gradient searching for finding turning points in noisy cases. 
 
+Background 
+---
 Two basic methods: 1. taking maximum. 2. take zero crossing points for gradient of the signal. Here are sample codes.
 
 ```python
