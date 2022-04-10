@@ -49,7 +49,7 @@ related features such as the number of staff has been shown to be predictive in 
 does not contain this information, and therefore we do not include resource information in our model.
 
 
-We use one-year historical data from one hospital with 300-500 ED cases daily. The first halfyear is used as training, and the second half-year as prediction. Figure 1 shows the input features and the results of the
+We use one-year historical data from one hospital with around 300-500 ED cases daily. The first half-year is used as training, and the second half-year as prediction. Figure 1 shows the input features and the results of the
 prediction. The predicted ED-LoS is smoother than the true ED-LoS but has strong correlation with the ground truth. 
 
 
