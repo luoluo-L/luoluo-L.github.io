@@ -44,13 +44,11 @@ Prediction:
 Model: 
 long short-term memory (LSTM) network2. 
 
-The 
-LSTM main
-parameter unit/inner dimension is 100. The model is trained on a single CPU machine for 50 epochs. Note, resource
-related features such as the number of staff has been shown to be predictive in previous works1
-, however our dataset
+The LSTM main parameter unit/inner dimension is 100. The model is trained on a single CPU machine for 50 epochs. Note, resource
+related features such as the number of staff has been shown to be predictive in previous works1, however our dataset
 does not contain this information, and therefore we do not include resource information in our model.
-Results: What was the outcome(s) of what you did to address the problem or gap?
+
+
 We use one-year historical data from one hospital with 300-500 ED cases daily. The first halfyear is used as training, and the second half-year as prediction. Figure 1 shows the input features and the results of the
 prediction. The predicted ED-LoS is smoother than the true ED-LoS but has strong correlation with the ground truth. 
 
