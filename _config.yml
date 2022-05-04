@@ -79,6 +79,7 @@ analytics:
 
 
 # Site Author
+>
 author:
   name             : "Luoluo"
   avatar           : "bio-pic.jpg"
@@ -115,6 +116,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+>
 
 
 # Reading Files

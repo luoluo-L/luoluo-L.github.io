@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "personal website"
+title: "luoluo's personal website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
