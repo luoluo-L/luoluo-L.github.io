@@ -22,7 +22,7 @@ Python misc commands
 
 ```python
   import glob
-  allpathes_infolder = [filename for filename in glob.iglob(foldername + '/**/**', recursive = True )]
+  allpathes_infolder = [filename for filename in glob.iglob(foldername + '/**/**', recursive = True)]
 ```
 
 

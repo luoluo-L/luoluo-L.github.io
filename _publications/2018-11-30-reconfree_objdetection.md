@@ -4,6 +4,11 @@ collection: publications
 permalink: /publication/2018-11-30-reconfree_objdetection
 excerpt: 'Reconstruction-free (imputation-free) object detection on any observed patterns'
 date: 2018-11-30
+tags:
+    - object detection
+    - random observation pixels
+    - robust against missing data
+
 ---
 
 Summary of this work:
