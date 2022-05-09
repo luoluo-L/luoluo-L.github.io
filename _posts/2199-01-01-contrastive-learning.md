@@ -15,6 +15,11 @@ Contrastive learning
 Contrastive learnining is a unsupervised technique that enables encoder to generate good representations by 
 encoraging embeddings from similar inputs toghether and increase distance of dissimilar pairs.
 
+Learnings: transformation of data augmentation should be composed of at least $2$ transformations.
+Even though augmentated data have larger variances than using one transformation (commomly used for supervised learning tasks) and makes discriminative tasks harder, it improves results of contrastive learning. 
+
+
+
 a good code implementation tutorial is here:
 https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial17/SimCLR.html
 
