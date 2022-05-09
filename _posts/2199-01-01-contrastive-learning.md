@@ -15,6 +15,9 @@ Contrastive learning
 Contrastive learnining is a unsupervised technique that enables encoder to generate good representations by 
 encoraging embeddings from similar inputs toghether and increase distance of dissimilar pairs.
 
+a good code implementation tutorial is here:
+https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial17/SimCLR.html
+
 a good summary of contrastive learning for visual and sentence application is here:
 
 https://lilianweng.github.io/posts/2021-05-31-contrastive/
