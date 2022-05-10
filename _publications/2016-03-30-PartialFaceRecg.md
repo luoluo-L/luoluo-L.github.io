@@ -13,6 +13,9 @@ tags:
 ---
 
 Summary of this work:
+
+<img src='/images/poster_pfr/page0.jpg' width='1800'>
+
 [download summary here](https://sigport.org/sites/default/files/poster_icassp16_luoluo_feb_version_2_33_56.pdf).
 
 <!--
