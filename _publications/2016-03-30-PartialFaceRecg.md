@@ -2,7 +2,7 @@
 title: "Partial face recognition"
 collection: publications
 permalink: /publication/2016-pfr
-excerpt: 'a framework proposed to recognize partial faces'
+excerpt: 'a framework proposed to recognize partial faces without requirement of alignment information'
 date: 2016-03-30
 tags:
     - face recognition
