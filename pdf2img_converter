@@ -1,0 +1,16 @@
+
+# import module
+from pdf2image import convert_from_path
+import os
+
+pdf_path = r'C:\\githubio_website\lydia777.github.io\images\poster_pfr\poster_icassp16_luoluo_feb_version_2_33_56.pdf' 
+img_path = r'C:\\githubio_website\lydia777.github.io\images\poster_pfr'
+
+# Store Pdf with convert_from_path function
+images = convert_from_path(pdf_path)
+ 
+for i in range(len(images)):
+   
+      # Save pages as images in the pdf
+    images[i].save(
+      os.path.join(img_path, ('page'+ str(i) +'.jpg')), 'JPEG')
