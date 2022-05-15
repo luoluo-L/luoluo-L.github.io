@@ -29,8 +29,9 @@ Main improvements of the well-known Canadian [LACE+](https://www.ncbi.nlm.nih.go
 <img src='/images/readmission/flowchart_30day_readmission.png' width='1800'>
 
 **Main results:**
-the weighted erformance across different hospitals with 600K inpatient encounters, LACE+ AUC=0.66, Improved LACE+ AUC=0.772, with about **17% improvement on AUC**.  
+- the weighted erformance across different hospitals with 600K inpatient encounters, LACE+ AUC=0.66, Improved LACE+ AUC=0.772, with about **17% improvement on AUC**.  
 
+- Using feature importance analysis, the added Clinical cateogries is the top feature.
 
 
 
