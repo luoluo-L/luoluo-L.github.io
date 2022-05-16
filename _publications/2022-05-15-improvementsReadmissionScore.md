@@ -34,6 +34,7 @@ Here is an illuatration of the improved LACE+ algorithm:
 
 - Using feature importance analysis, the added Clinical cateogries is the top feature.
 
+[Download Summary](http://luoluo-l.github.io/files/cic_poster_0516.pdf)
 
 
 
