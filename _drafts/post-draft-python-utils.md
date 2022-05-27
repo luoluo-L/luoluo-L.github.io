@@ -27,8 +27,6 @@ Python misc commands
 
 3. save csv file line by line in loop
 
-package requirement csv
-
 ```python
   import csv
   cols_headernames = [str] # list of strings
