@@ -27,13 +27,15 @@ Chapter 10: Sequence Modelling: Recurrent and Recursive Nets
 **Recurrent Neural Networks(RNNs)** processes sequential data $\boldsymbol{x}^{(1)}, \boldsymbol{x}^{(2)}, ..., \boldsymbol{x}^{(\tau)}$.
 
 
-Take advantage of the benefits of **shared parameters**: 
+Take advantage of the benefits of **parameters sharing**: 
 - generalize to varience length
 - share statistical stregth across different sequence length and positions in time.
   
   Local time/location-invariant property is prefered for some task. Example: Say task is to identify time to go to Nepal, then we want to learn similar features from sentences: setence 1: I went to Nepal in 2009; Setence 2: in 2009, I went to Nepal. We want to identify the year in either locations of the sentence.
 
+- **assumption of parameter sharing: stationary** - relationship between previous step to the next time step does not dependent on the time $t$.
 
+ 
 Unfolding Computational Graphs
 ---
 
@@ -88,18 +90,40 @@ TODO: Back Propogation Through Time (BPTT): need to refer to chap 6.5.6
 
 10.2.1 TODO
 
+Variations of RNNs
+---
+break stationary case:
+
+model sequence length
+
+Application area: change point detection? 
+
+Conditional RNNs
+
+Bidirectional RNNs
+
 
 10.6 TODO
 
 Recursive Neural Networks
 ---
-Main difference to Recurrent Neural Networks: **Recursive neural networks** are structured as **deep tree**, whereas **Recurrent neural networks** have  **chain-like structure**.
+  Main difference to Recurrent Neural Networks: **Recursive neural networks** are structured as **deep tree**, whereas **Recurrent neural networks** have  **chain-like structure**.
 
-Previous work has succesfully applied recursive neural networks in NLP and CV fields. 
+  Previous work has succesfully applied recursive neural networks in NLP and CV fields. 
 
-**Computational efficency** over Recurrent NNs: for sequence of length $\tau$, the depth can be reduce to from $\tau$ to $O(log\tau)$
+  **Computational efficency** over Recurrent NNs: for sequence of length $\tau$, the depth can be reduce to from $\tau$ to $O(log\tau)$
 
-**Open question** on optimal structure of the tree. 1. data independent. 2. data dependent and optimal structure is learned from data.
+  **Open question** on optimal structure of the tree. 1. data independent. 2. data dependent and optimal structure is learned from data.
+
+
+The challenge of long-term dependencies: vanishing gradient or explode gradient (rarely)
+---
+An analagy, multiplying the same weight $w$ multiple times, you either get vanishing weights or explode weights. Vanishing gradient happens more often.
+
+Strategies to handle long-term dependencies:
+
+
+
 
 
 
