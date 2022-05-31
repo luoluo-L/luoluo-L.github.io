@@ -65,8 +65,8 @@ $\boldsymbol{y}: $ target.  $\boldsymbol{\hat{y}}$: predicted target. $\boldsymb
 
 $L$: loss function.
 
-Let $\boldsymbol{W}$ be the weight matrix (parameter) for the previous hidden states and $\boldsymbol{U}$ be the weight matrix for the current signal input, and $\boldsymbol{b}$ be the bias vector;
-the parameter from hidden states to outputs are parameters by weight matrix $\boldsymbol{V}$  and bias $\boldsymbol{c}$;  then the update equations for RNNs are:
+Let $\boldsymbol{W_h}$ be the weight matrix (parameter) for the previous hidden states and $\boldsymbol{W_x}$ be the weight matrix for the current signal input, and $\boldsymbol{b_h}$ be the bias vector;
+the parameter from hidden states to outputs are parameters by weight matrix $\boldsymbol{V}$  and bias $\boldsymbol{b}$;  then the update equations for RNNs are:
 
 $\boldsymbol{h^{(t)}} = tanh (\boldsymbol{b_h} + \boldsymbol{W_h} \boldsymbol{h^{(t -1 )} } + \boldsymbol{W_x} \boldsymbol{x^{(t)}}) $
 
@@ -80,12 +80,12 @@ $\boldsymbol{\hat{y}^{(t)}} = softmax(\boldsymbol{o^{(t)}})$.
 
 Teacher Forcing
 ---
+**Teacher forcing** refers to using the true label of previous time step $\boldsymbol{{y}^{(t-1)}}$ when training the current time step, which can be used in training phase.
+
+In the case of testing or non-teacher forcing is used, an predicted label could be used instead $\boldsymbol{\hat{y}^{(t-1)}}$.
 
 
-TODO: Back Propogation Through Time (BPTT): need to refer to chap 6.5.6
-
-
-
+Back Propogation Through Time (BPTT): refer to chapter 6.5.6 for derivation details.
 
 
 10.2.1 TODO
