@@ -30,10 +30,30 @@ Unfolding Computational Graphs
 ---
 
 A classical form of a dynamical system: 
-$s^{(t)} = f ( s^{(t-1)}; \theta)$, where $s$ is the state of system, and $\theta$ is parameter. This is recurrent because the definition of state $s$ at $t$ referes back to the same definition at time $t - 1$.
+$\boldsymbol{s}^{(t)} = f ( \boldsymbol{s}^{(t-1)}; \theta)$, where $s$ is the state of system, and $\theta$ is parameter. This is recurrent because the definition of state $s$ at $t$ referes back to the same definition at time $t - 1$.
 
 Unfold a finite step dynamical system:
-$s^{(T)} = f( s^{(T-1)}; \theta ) = f (f (s^{(T-2)} ; \theta) ; \theta)$.
+$\boldsymbol{s}^{(T)} = f( \boldsymbol{s}^{(T-1)}; \theta ) = f (f (\boldsymbol{s}^{(T-2)} ; \theta) ; \theta)$.
 
-Classical form of a dynamical system with external input signal: 
+Classical form of a dynamical system with external input signal $\boldsymbol{x}$: $\boldsymbol{s}^{(t)} = f ( \boldsymbol{s}^{(t-1)}, \boldsymbol{x}^{(t)}; \theta)$.
+
+Recurrent Neural Network notations commonly use $\boldsymbol{h}$ to denote hidden states: 
+
+$\boldsymbol{h}^{(t)} = f ( \boldsymbol{h}^{(t-1)}, \boldsymbol{x}^{(t)}; \theta)$.
+
+Two representations of RNNs: the recurrent graph and the unfolded graph. The recurrent graph is a succinct/brief notation. Unfolded graph provides explict description and flow (useful for cases like bi-directional RNNs).
+
+Recurrent Neural Networks (RNNs)
+----
+
+
+
+Recursive Neural Networks
+---
+Main difference to Recurrent Neural Networks: **Recursive neural networks** are structured as **deep tree**, whereas **Recurrent neural networks** have  **chain-like structure**.
+
+Previous work has succesfully applied recursive neural networks in NLP and CV fields. 
+
+
+
 
