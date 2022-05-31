@@ -68,6 +68,16 @@ $\boldsymbol{\hat{y}^{(t)}} = softmax(\boldsymbol{o^{(t)}})$.
 **Run time and memory Challenges** and not able to speed up via parallalization due to the sequential nature.
 
 
+Teacher Forcing
+---
+
+
+Back Propogation Through Time (BPTT)
+---
+
+
+
+
 10.2.1 TODO
 
 
