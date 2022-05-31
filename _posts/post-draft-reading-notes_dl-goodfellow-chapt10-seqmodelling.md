@@ -1,12 +1,20 @@
 ---
 layout: single
 title:  "Reading notes of Deep Learning book by Goodfellow et al."
+date: 2020-06-15
+permalink: /posts/2020/06/reading-notes-dl/
 header:
   teaser: "unsplash-gallery-image-2-th.jpg"
 categories: 
   - Jekyll
 tags:
-  - python
+  - book deep learning reading notes
+  - sequence modelling
+  - recurrent neural nets
+  - LSTM 
+  - gated neural nets
+  - recursive neural nets
+  - in progress
 ---
 
 Reading notes of book: Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville
@@ -58,9 +66,9 @@ $L$: loss function.
 Let $\boldsymbol{W}$ be the weight matrix (parameter) for the previous hidden states and $\boldsymbol{U}$ be the weight matrix for the current signal input, and $\boldsymbol{b}$ be the bias vector;
 the parameter from hidden states to outputs are parameters by weight matrix $\boldsymbol{V}$  and bias $\boldsymbol{c}$;  then the update equations for RNNs are:
 
-$\boldsymbol{h^{(t)}} = tanh (\boldsymbol{b} + \boldsymbol{W} \boldsymbol{h^{(t -1 )} } + \boldsymbol{U} \boldsymbol{x^{(t)}}) $
+$\boldsymbol{h^{(t)}} = tanh (\boldsymbol{b_h} + \boldsymbol{W_h} \boldsymbol{h^{(t -1 )} } + \boldsymbol{W_x} \boldsymbol{x^{(t)}}) $
 
-$\boldsymbol{o^{(t)}} = \boldsymbol{c} + \boldsymbol{V} \boldsymbol{h^{(t)}} $
+$\boldsymbol{o^{(t)}} = \boldsymbol{b} + \boldsymbol{V} \boldsymbol{h^{(t)}} $
 
 $\boldsymbol{\hat{y}^{(t)}} = softmax(\boldsymbol{o^{(t)}})$.
 
@@ -72,8 +80,8 @@ Teacher Forcing
 ---
 
 
-Back Propogation Through Time (BPTT)
----
+TODO: Back Propogation Through Time (BPTT): need to refer to chap 6.5.6
+
 
 
 
