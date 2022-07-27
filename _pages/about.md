@@ -18,13 +18,15 @@ Various applications types: natural & medical image processing, physiological ti
 
 8 years experience in Algorithm Innovations in Artifical Intelligence, ~20 AI algorithm innovations, 2 patents and 3 grant proposals.
 
+## What is the importance of Algorithm Innovations in Artifical Intelligence (AIAI)?
+Just like customized made suit fits better to individual person compared to factory made suit, algorithm innovations provides customized algorithms to practical complex problems without a standarized text-book solution from off-the-shelf algorithm packages.
 
 ## News:
 
-### New algorithm:
+### New Algorithm Innovations:
 [MSAR: interpretable framework to identify comorbidities associated with ED and in-patient recurrent visits](../_publications/2022-03-12-msar_rp.md)
 
-<img src='images/msar_rp/msar_summary.png'>
+<img src='images/msar_rp/msar_summary.png' width='800'>
 
 
 ### New blogs:
