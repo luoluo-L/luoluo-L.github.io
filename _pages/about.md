@@ -18,6 +18,9 @@ Various applications types: natural & medical image processing, physiological ti
 
 8 years experience in Algorithm Innovations in Artifical Intelligence, ~20 AI algorithm innovations, 2 patents and 3 grant proposals.
 
+[Resume](http://luoluo-l.github.io/files/resume_lll_aug_2022.pdf)
+
+
 ## What is the importance of Algorithm Innovations in Artifical Intelligence (AIAI)?
 Just like customized made suit fits better to individual person compared to factory made suit, algorithm innovations provides customized algorithms to practical complex problems without a standarized text-book solution from off-the-shelf algorithm packages.
 
@@ -25,12 +28,12 @@ Just like customized made suit fits better to individual person compared to fact
 
 ### New Algorithm Innovations:
 [MSAR: interpretable framework to identify comorbidities associated with ED and in-patient recurrent visits](../_publications/2022-03-12-msar_rp.md)
+[1-page Summary](http://luoluo-l.github.io/files/EMBC2022_eposter_03.pdf)
 
 Keywords: interpretable ML and, top-X factors identification method
 
 <img src='images/msar_rp/msar_summary.png' width='800'>
 
-[Summary](http://luoluo-l.github.io/files/EMBC2022_eposter_03.pdf)
 
 Application area of this paper: ED, inpatient recurrent patients
 
