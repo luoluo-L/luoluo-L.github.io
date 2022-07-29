@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-## About me
+## About me [(resume)](http://luoluo-l.github.io/files/resume_lll_aug_2022.pdf)
 
 8 years experience in Machine Learning, Deep Learning, Artificial Intelligence, sparse representation theory, Signal processing;
 
@@ -18,7 +18,7 @@ Various applications types: natural & medical image processing, physiological ti
 
 8 years experience in Algorithm Innovations in Artifical Intelligence, ~20 AI algorithm innovations, 2 patents and 3 grant proposals.
 
-[Resume](http://luoluo-l.github.io/files/resume_lll_aug_2022.pdf)
+
 
 
 ## What is the importance of Algorithm Innovations in Artifical Intelligence (AIAI)?
