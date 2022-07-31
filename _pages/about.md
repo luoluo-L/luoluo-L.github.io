@@ -30,7 +30,7 @@ Just like customized made suit fits better to individual person compared to fact
 
 Here is a [original ballroom dance video](https://www.youtube.com/watch?v=Sw-jcAwgsOY&list=PLstUCbTJuRiAOjbUcDEg0991IZrDh3KNg&index=3&ab_channel=HappyDancing) with audience cheering and the [processed video](https://www.youtube.com/watch?v=iYp-ROvl_KE&list=PLstUCbTJuRiAOjbUcDEg0991IZrDh3KNg&index=7&ab_channel=HappyDancing) that removes audience cheering. 
 
-Usage: enhance music sounds, de-identification purposes
+Use cases: enhance music sounds, de-identification purposes
 
 ### New Algorithm Innovations:
 [MSAR: interpretable framework to identify comorbidities associated with ED and in-patient recurrent visits](../_publications/2022-03-12-msar_rp.md)
