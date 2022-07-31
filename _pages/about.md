@@ -37,6 +37,8 @@ Here is a [original ballroom dance video](https://www.youtube.com/watch?v=Sw-jcA
 
 Use cases: enhance music sounds, de-identification purposes for sensitive data 
 
+Alarm noise removal: demo to be uploaded. stay tuned.
+
 ### New Algorithm Innovations:
 [MSAR: interpretable framework to identify comorbidities associated with ED and in-patient recurrent visits](../_publications/2022-03-12-msar_rp.md)
 [1-page Summary](http://luoluo-l.github.io/files/EMBC2022_eposter_03.pdf)
