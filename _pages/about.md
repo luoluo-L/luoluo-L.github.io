@@ -22,12 +22,13 @@ redirect_from:
 
 **Experience Summary:**
 
-    Ph.D. in Electrical and Computer Engineering and M.S. in Applied Mathematics and Statistics from Johns Hopkins University;
-    8 years experience in Machine Learning, Deep Learning, Artificial Intelligence, sparse representation theory, Signal processing;
-    Various signal modalities: natural & medical image processing,  radio frequency signals, physiological time-series (vitals, labs, ECG, impedance, Co2), audio signals, Electronic Health Records;
-    3+ years in 3 healthcare companies;
-    8 years experience in Algorithm Innovations in Artifical Intelligence, ~20 AI algorithm innovations, 2 patents and 3 grant proposals;
-    Theoretical machine learning works on topis of emsamble methods in sparse optimizations.
+  Ph.D. in Electrical and Computer Engineering and M.S. in Applied Mathematics and Statistics from Johns Hopkins University; working in healthcare industry for about $4$ years.
+  
+  8 years experience in Algorithm Innovations in Artifical Intelligence & Signal Processing, ~20 AI algorithm innovations, 3 patents and 4 grant proposals;
+  
+  Various signal modalities: natural image processing, medical image processing,  radio frequency signals, physiological time-series (vitals, labs, ECG, impedance, Co2), audio signals, Electronic Health Records;
+
+  Theoretical machine learning works on topis of emsamble methods in sparse optimizations.
 
 
 ## New Demos: 
