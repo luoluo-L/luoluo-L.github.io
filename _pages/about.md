@@ -19,15 +19,13 @@ redirect_from:
   What is **the importance** of **Algorithm Innovations in Artifical Intelligence (AIAI)**? Just like customized made suit fits better to individual person compared to factory made suit, algorithm innovations provides customized algorithms to practical complex problems without a standarized text-book solution from off-the-shelf algorithm packages.
 
 
-
-
 ## New Demos: 
-### **Audiences cheering sound removal**:
-Here is a [original ballroom dance video](https://www.youtube.com/watch?v=Sw-jcAwgsOY&list=PLstUCbTJuRiAOjbUcDEg0991IZrDh3KNg&index=3&ab_channel=HappyDancing) with audiences cheering and the [processed video](https://www.youtube.com/watch?v=iYp-ROvl_KE&list=PLstUCbTJuRiAOjbUcDEg0991IZrDh3KNg&index=7&ab_channel=HappyDancing) that removes audiences cheering. 
+**Audiences cheering speech removal**:
+[original ballroom dance video](https://www.youtube.com/watch?v=Sw-jcAwgsOY&list=PLstUCbTJuRiAOjbUcDEg0991IZrDh3KNg&index=3&ab_channel=HappyDancing) with audiences cheering, and the [processed video](https://www.youtube.com/watch?v=iYp-ROvl_KE&list=PLstUCbTJuRiAOjbUcDEg0991IZrDh3KNg&index=7&ab_channel=HappyDancing) that removes audiences cheering. 
 
 Use cases: enhance music sounds, de-identification purposes for sensitive data 
 
-Alarm noise removal: demo to be uploaded. stay tuned.
+**Annoying alarm noise removal** [**demo**](https://www.youtube.com/watch?v=Iaqf7y_t3PQ&list=PLstUCbTJuRiAQYwimpw9pslrsarsWYAx7&ab_channel=HappyDancing) with the comparison of clips from original and processed video.
 
 ### New Algorithm Innovations:
 [MSAR: interpretable framework to identify comorbidities associated with ED and in-patient recurrent visits](../_publications/2022-03-12-msar_rp.md)
