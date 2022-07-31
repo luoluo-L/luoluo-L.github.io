@@ -9,20 +9,30 @@ redirect_from:
 ---
 
 
-8 years experience in Machine Learning, Deep Learning, Artificial Intelligence, sparse representation theory, Signal processing;
 
-3+ years in 3 healthcare companies
+**Specialty**: 
+  
+  $\bullet$ **Customized AI algorithm** development service.
 
-Various applications types: natural & medical image processing, physiological time-series (vitals, labs, ECG, impedance, Co2), Electronic Health Records 
+  $\bullet$ **Algorithm Innovations in Artifical Intelligence (AIAI)** for various applications and signal modalities
 
-8 years experience in Algorithm Innovations in Artifical Intelligence, ~20 AI algorithm innovations, 2 patents and 3 grant proposals.
+  What is **the importance** of **Algorithm Innovations in Artifical Intelligence (AIAI)**?
 
+  Just like customized made suit fits better to individual person compared to factory made suit, algorithm innovations provides customized algorithms to practical complex problems without a standarized text-book solution from off-the-shelf algorithm packages.
 
+**Experience Summary:**
 
+  Ph.D. in Electrical and Computer Engineering and M.S. in Applied Mathematics and Statistics from Johns Hopkins University;
 
-## What is the importance of Algorithm Innovations in Artifical Intelligence (AIAI)?
-Just like customized made suit fits better to individual person compared to factory made suit, algorithm innovations provides customized algorithms to practical complex problems without a standarized text-book solution from off-the-shelf algorithm packages.
+  8 years experience in Machine Learning, Deep Learning, Artificial Intelligence, sparse representation theory, Signal processing;
 
+  Various signal modalities: natural & medical image processing,  radio frequency signals, physiological time-series (vitals, labs, ECG, impedance, Co2), audio signals, Electronic Health Records;
+
+  3+ years in 3 healthcare companies;
+
+  8 years experience in Algorithm Innovations in Artifical Intelligence, ~20 AI algorithm innovations, 2 patents and 3 grant proposals;
+
+  Theoretical machine learning works on topis of emsamble methods in sparse optimizations.
 
 
 ## New Demos: 
@@ -54,6 +64,10 @@ Blogs about data science and machine learning.
 Original card design. Best wishes to the year 2022. Copyright protected.
  <br/><img src='/images/misc/best_wishes_4_2022.gif' width='400'>
  
+
+
+
+
 
 
 <!--
