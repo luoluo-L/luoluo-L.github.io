@@ -23,14 +23,14 @@ Various applications types: natural & medical image processing, physiological ti
 ## What is the importance of Algorithm Innovations in Artifical Intelligence (AIAI)?
 Just like customized made suit fits better to individual person compared to factory made suit, algorithm innovations provides customized algorithms to practical complex problems without a standarized text-book solution from off-the-shelf algorithm packages.
 
-## News:
 
-### New Demos: 
-**audio voice removal**:
+
+## New Demos: 
+### **Audio voice removal**:
 
 Here is a [original ballroom dance video](https://www.youtube.com/watch?v=Sw-jcAwgsOY&list=PLstUCbTJuRiAOjbUcDEg0991IZrDh3KNg&index=3&ab_channel=HappyDancing) with audiences cheering and the [processed video](https://www.youtube.com/watch?v=iYp-ROvl_KE&list=PLstUCbTJuRiAOjbUcDEg0991IZrDh3KNg&index=7&ab_channel=HappyDancing) that removes audiences cheering. 
 
-Use cases: enhance music sounds, de-identification purposes
+Use cases: enhance music sounds, de-identification purposes for sensitive data 
 
 ### New Algorithm Innovations:
 [MSAR: interpretable framework to identify comorbidities associated with ED and in-patient recurrent visits](../_publications/2022-03-12-msar_rp.md)
