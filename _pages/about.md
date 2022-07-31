@@ -37,6 +37,14 @@ Keywords: interpretable ML and, top-X factors identification method
 
 Application area of this paper: ED, inpatient recurrent patients
 
+### New demos: 
+Audio automatic voice removal:
+
+Here is a [original ballroom dance video](https://www.youtube.com/watch?v=Sw-jcAwgsOY&list=PLstUCbTJuRiAOjbUcDEg0991IZrDh3KNg&index=3&ab_channel=HappyDancing) with audience cheering and the [processed video](https://www.youtube.com/watch?v=iYp-ROvl_KE&list=PLstUCbTJuRiAOjbUcDEg0991IZrDh3KNg&index=7&ab_channel=HappyDancing) that removes audience cheering. 
+
+Usage: enhance music sounds, de-identification purposes
+
+
 ### New blogs:
 Blogs about data science and machine learning.
 
