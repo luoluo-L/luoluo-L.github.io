@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "luoluo's personal website"
+title: "luoluo's personal website [(resume)](http://luoluo-l.github.io/files/resume_lll_aug_2022.pdf)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-## About me [(resume)](http://luoluo-l.github.io/files/resume_lll_aug_2022.pdf)
 
 8 years experience in Machine Learning, Deep Learning, Artificial Intelligence, sparse representation theory, Signal processing;
 
