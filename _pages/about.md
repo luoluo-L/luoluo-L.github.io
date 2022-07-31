@@ -28,7 +28,7 @@ Just like customized made suit fits better to individual person compared to fact
 ### New Demos: 
 **Automatic audio voice removal**:
 
-Here is a [original ballroom dance video](https://www.youtube.com/watch?v=Sw-jcAwgsOY&list=PLstUCbTJuRiAOjbUcDEg0991IZrDh3KNg&index=3&ab_channel=HappyDancing) with audience cheering and the [processed video](https://www.youtube.com/watch?v=iYp-ROvl_KE&list=PLstUCbTJuRiAOjbUcDEg0991IZrDh3KNg&index=7&ab_channel=HappyDancing) that removes audience cheering. 
+Here is a [original ballroom dance video](https://www.youtube.com/watch?v=Sw-jcAwgsOY&list=PLstUCbTJuRiAOjbUcDEg0991IZrDh3KNg&index=3&ab_channel=HappyDancing) with audiences cheering and the [processed video](https://www.youtube.com/watch?v=iYp-ROvl_KE&list=PLstUCbTJuRiAOjbUcDEg0991IZrDh3KNg&index=7&ab_channel=HappyDancing) that removes audiences cheering. 
 
 Use cases: enhance music sounds, de-identification purposes
 
