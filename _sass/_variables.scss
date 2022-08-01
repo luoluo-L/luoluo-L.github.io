@@ -111,7 +111,7 @@ $x-large                    : 1800px;
 */
 
 $small                      : 600px !default;
-$medium                     : 76px !default;
+$medium                     : 768px !default;
 $medium-wide                : 900px !default;
 $large                      : 925px !default;
 $x-large                    : 1280px !default;
@@ -151,4 +151,4 @@ $box-shadow                 : 0 1px 1px rgba(0, 0, 0, 0.125);
 $navicon-width              : 28px;
 $navicon-height             : 4px;
 $global-transition          : all 0.2s ease-in-out;
-$max-width:100%;
+$max-width:$100%;
