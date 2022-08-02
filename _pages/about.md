@@ -54,11 +54,11 @@ Original card design. Best wishes to the year 2022. Copyright protected.
 
 **Experience Summary:** Ph.D. in Electrical and Computer Engineering and M.S. in Applied Mathematics and Statistics from Johns Hopkins University; working in healthcare industry for about $4$ years.
   
-  8 years experience in Algorithm Innovations in Artifical Intelligence & Signal Processing, ~20 AI algorithm innovations, 3 patents and 4 grant proposals;
+  8 years experience in Algorithm Innovations in Artificial Intelligence & Signal Processing, ~20 AI algorithm innovations, 3 patents and 4 grant proposals;
   
   Various signal modalities: natural image processing, medical image processing,  radio frequency signals, physiological time-series (vitals, labs, ECG, impedance, Co2), audio signals, Electronic Health Records;
 
-  Theoretical machine learning works on topis of emsamble methods in sparse optimizations.
+  Theoretical machine learning works on topics of emsamble methods in sparse optimizations.
 
 
 <!--
