@@ -2,7 +2,7 @@
 title: "Segmentation of Thalamus from MR Images via Task- Driven Dictionary Learning"
 collection: publications
 permalink: /publication/Mri_seg_thalamus
-excerpt: "<img src='/images/mri_seg/Automatic_thalamus_segmentation.jpg' width='600'>"
+excerpt: "<img src='/images/mri_seg/Automatic_thalamus_segmentation.jpg' width='700'>"
 date: 2016-02-25
 tags:
     - MR images 
