@@ -1,5 +1,5 @@
 ---
-title: "Sub-bagging in l1 sparse optimization"
+title: "Sub-bagging in sparse optimization"
 collection: publications
 permalink: /publication/subbagging
 excerpt: "<img src='/images/subbaging/bagging_sub_l1.jpg' width='400'>"
