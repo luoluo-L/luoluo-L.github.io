@@ -2,7 +2,7 @@
 title: "Sub-bagging in l1 sparse optimization"
 collection: publications
 permalink: /publication/subbagging
-excerpt: "<img src='/images/subbaging/bagging_sub_l1.jpg' width='700'>"
+excerpt: "<img src='/images/subbaging/bagging_sub_l1.jpg' width='400'>"
 date: 2019-05-25
 tags:
     - bootstrapping
