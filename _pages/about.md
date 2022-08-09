@@ -33,7 +33,7 @@ Use cases: enhance music sounds, de-identification purposes for sensitive data
 
 Keywords: interpretable ML and, top-X factors identification method
 
-<img src='images/msar_rp/msar_summary.png' width='800'>
+<img src='images/msar_rp/msar_ad.jpg' width='800'>
 
 
 Application area of this paper: ED, inpatient recurrent patients
