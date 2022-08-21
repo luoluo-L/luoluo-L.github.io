@@ -1,8 +1,8 @@
 ---
-title: "Improvements of LACE+ Readmission Risk Score"
+title: "Improvements of LACE+ 30-day Readmission Risk Score"
 collection: publications
 permalink: /publication/2022-improveLACEPlus
-excerpt: 'Improvements of LACE+ readmission risk score. These bring 17% AUC improvement.'
+excerpt: '**17% AUC** improvement of the original LACE+ readmission risk score'
 date: 2022-05-15
 tags:
     - 30-day readmission
