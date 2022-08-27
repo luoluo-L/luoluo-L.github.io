@@ -8,7 +8,7 @@ excerpt: "Collaborative ensambles in sparse optimization
 <img src='/images/collab_1/ours.png' width='400'>"
 
 
-date: 2019-05-25
+date: 2019-07-07
 tags:
     - bootstrapping
     - emsamble
