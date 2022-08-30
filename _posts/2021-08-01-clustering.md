@@ -10,12 +10,15 @@ tags:
 
 ---
 
+
+
 TSlearn package for classic timeseries clustering methods:
----
+
 [demo](https://tslearn.readthedocs.io/en/stable/auto_examples/clustering/plot_kmeans.html)
 
-Example results:
-<img src='/images/blog_tsclustering/example_three_ts_clustering.png' width='600'>
+Demo results:
+<img src='/images/blog_tsclustering/example_three_ts_clustering.png'>
+
 
 Methods:
 ---
