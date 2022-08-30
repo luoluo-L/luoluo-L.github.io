@@ -12,7 +12,7 @@ tags:
 
 
 
-TSlearn package for classic timeseries clustering methods:
+TSlearn package for classic timeseries clustering methods.
 
 We follow this [demo](https://tslearn.readthedocs.io/en/stable/auto_examples/clustering/plot_kmeans.html) and generate the following demo results:
 
