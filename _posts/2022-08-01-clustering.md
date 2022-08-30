@@ -1,7 +1,7 @@
 ---
 title: 'time series clustering using tslearn'
-date: 2022-08-01
-permalink: /posts/2022/08/tsclustering
+date: 2021-08-01
+permalink: /posts/2021/08/tsclustering
 tags:
   - time series
   - clustering
