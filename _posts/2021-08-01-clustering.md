@@ -14,16 +14,16 @@ tags:
 
 TSlearn package for classic timeseries clustering methods.
 
-We follow this [demo](https://tslearn.readthedocs.io/en/stable/auto_examples/clustering/plot_kmeans.html) and generate the following demo results:
+Follow this [demo](https://tslearn.readthedocs.io/en/stable/auto_examples/clustering/plot_kmeans.html) and generate the following demo results:
 
 <img src='/images/blog_tsclustering/example_three_ts_clustering.png'>
 
 
-Methods:
----
-Euclidean k-means,
-DTW (Dynamic Time Wrapping),
-Soft-DTW.
+**Methods:**
+
+  $\bullet$ Euclidean k-means,
+
+  $\bullet$ DTW (Dynamic Time Wrapping), Soft-DTW.
 
 Remarks:
 ---
