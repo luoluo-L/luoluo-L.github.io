@@ -14,9 +14,9 @@ tags:
 
 TSlearn package for classic timeseries clustering methods.
 
-Follow this [demo](https://tslearn.readthedocs.io/en/stable/auto_examples/clustering/plot_kmeans.html) and generate the following demo results:
+Follow this [demo](https://tslearn.readthedocs.io/en/stable/auto_examples/clustering/plot_kmeans.html). With some small modifications (parameters stated in last section, and we generate the following results with number of clusters set to ```nc = 3```.
 
-<img src='/images/blog_tsclustering/example_three_ts_clustering.png'>
+<img src='/images/blog_tsclustering/example_three_ts_clustering_numClusters3.png'>
 
 
 **Methods:**
@@ -38,3 +38,14 @@ DTW deals with time-invariance better, therefore DTW clustering centers are more
 
 Comparison of DTW vs Soft-DTW: 
 According to this example, soft-DTW cluster center captures the actual signal center in time domain, whereas DTW pick the first template.
+
+Cluster size changes with different number of clusters
+---
+
+Below image shows how cluster size changes with various numnber of clusters.
+The sample size is ```n=100``` to train cluster algorithms, and time dimension is ```t = 40```. In this dataset, the number of labels in the dataset is 4.
+
+
+Among three methods, k-means generates more imbalanced clusters, where the majority class tends to take over minority classes while increasing the number of clusters. 
+
+<img src='/images/blog_tsclustering/diff_methods_cluster_sizes.png'>
