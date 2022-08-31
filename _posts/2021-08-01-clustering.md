@@ -1,5 +1,5 @@
 ---
-title: 'time series clustering using tslearn'
+title: 'Time series clustering using tslearn'
 date: 2021-08-01
 permalink: /posts/2021/08/tsclustering
 tags:
@@ -47,6 +47,10 @@ Below image shows how cluster size changes with various numnber of clusters.
 The sample size is ```n=100``` to train cluster algorithms, and time dimension is ```t = 40```. In this dataset, the number of labels in the dataset is 4.
 
 
-Among three methods, k-means generates more imbalanced clusters, where the majority class tends to take over minority classes with the increasing clusters numbers. 
+Among three methods, when increasing the number of clusteres, k-means generates clusters with large size differences. 
 
 <img src='/images/blog_tsclustering/diff_methods_cluster_sizes.png'>
+
+A visualization of varing the number of clusters for three methods.
+
+<img src='/images/blog_tsclustering/num_clusters.gif'>
