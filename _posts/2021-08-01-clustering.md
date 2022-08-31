@@ -21,9 +21,11 @@ I followed this [demo](https://tslearn.readthedocs.io/en/stable/auto_examples/cl
 
 **Methods:**
 
-  $\bullet$ Euclidean k-means,
+  $\bullet$ Euclidean k-means
 
-  $\bullet$ DTW (Dynamic Time Wrapping), Soft-DTW.
+  $\bullet$ DTW (Dynamic Time Wrapping). Here, we use [DTW with  Barycenter Averaging](https://www.sciencedirect.com/science/article/abs/pii/S003132031000453X) and denote the method as **DBA**.
+  
+  $\bullet$ [Soft-DTW](https://arxiv.org/abs/1703.01541)
 
 Remarks:
 ---
@@ -36,8 +38,7 @@ timeseries k-means clustering center is a smoothed/low-passed version of signals
 
 DTW deals with time-invariance better, therefore DTW clustering centers are more indicative of shape.
 
-Comparison of DTW vs Soft-DTW: 
-According to this example, soft-DTW cluster center captures the actual signal center in time domain, whereas DTW pick the first template.
+DBA/DTW and Soft-DTW results are reasonably similar. Soft-DTW has differentiable loss. 
 
 Cluster size changes with different number of clusters
 ---
