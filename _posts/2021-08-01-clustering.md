@@ -23,7 +23,7 @@ I followed this [demo](https://tslearn.readthedocs.io/en/stable/auto_examples/cl
 
   $\bullet$ Euclidean k-means
 
-  $\bullet$ DTW (Dynamic Time Wrapping). Here, we use [DTW with  Barycenter Averaging](https://www.sciencedirect.com/science/article/abs/pii/S003132031000453X) and denote the method as **DBA**.
+  $\bullet$ DTW (Dynamic Time Wrapping). Here, we use [DTW with  Barycenter Averaging (DBA)](https://www.sciencedirect.com/science/article/abs/pii/S003132031000453X).
   
   $\bullet$ [Soft-DTW](https://arxiv.org/abs/1703.01541)
 
