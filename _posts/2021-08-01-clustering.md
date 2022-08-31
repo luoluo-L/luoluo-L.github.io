@@ -51,6 +51,6 @@ Among three methods, when increasing the number of clusteres, k-means generates 
 
 <img src='/images/blog_tsclustering/diff_methods_cluster_sizes.png'>
 
-Here is a visualization of varing the number of clusters for three methods. At the start, when the number of clusters ```nc = 2```, all three methods give similar clustering results. While increasing ```nc```, K-means method doesn't start dividing majority cluster: Cluster 2 until nc is very large at ```nc=6```. 
+Here is a visualization of varing the number of clusters for three methods. At the start, when the number of clusters ```nc = 2```, all three methods give similar clustering results. While increasing ```nc```, K-means method doesn't start dividing majority cluster: Cluster 2 until nc is very large at ```nc=6```. Overall, DBA and Soft-DTW have very similar results, especially when number of clusters is small.
 
 <img src='/images/blog_tsclustering/num_clusters.gif'>
