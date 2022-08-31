@@ -14,7 +14,7 @@ tags:
 
 TSlearn package for classic timeseries clustering methods.
 
-Follow this [demo](https://tslearn.readthedocs.io/en/stable/auto_examples/clustering/plot_kmeans.html). With some small modifications (parameters stated in last section, and we generate the following results with number of clusters set to ```nc = 3```.
+I followed this [demo](https://tslearn.readthedocs.io/en/stable/auto_examples/clustering/plot_kmeans.html). With some small modifications (parameters stated in last section, and then the following results with number of clusters set to ```nc = 3``` is generated.
 
 <img src='/images/blog_tsclustering/example_three_ts_clustering_numClusters3.png'>
 
