@@ -77,7 +77,7 @@ from sklearn.metrics.cluster import adjusted_rand_score
 
 In this example, since k-means tends to have the over-dividing behavior, its ARI drops faster than other DTW-based methods. It also explains that small number of clusters ```nc``` scores better in terms of ARI.
 
-<img src='/images/blog_tsclustering/ari_score.png'>
+<img src='/images/blog_tsclustering/ari_score.png' width='600'>
 
 
 Other metrics include Normalized Mutual Information [(NMI)](https://course.ccs.neu.edu/cs6140sp15/7_locality_cluster/Assignment-6/NMI.pdf). In this cases, NMI suggests consistent favor of DTW-based methods compared to k-means varing number of clusters.  
