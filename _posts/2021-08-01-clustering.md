@@ -82,6 +82,6 @@ In this example, since k-means tends to have the over-dividing behavior, its ARI
 
 Other metrics include Normalized Mutual Information [(NMI)](https://course.ccs.neu.edu/cs6140sp15/7_locality_cluster/Assignment-6/NMI.pdf). In this cases, NMI suggests consistent favor of DTW-based methods compared to k-means varing number of clusters.  
 
-<img src='/images/blog_tsclustering/NMI_score.png'>
+<img src='/images/blog_tsclustering/NMI_score.png' width='600'>
 
 Additional readings regarding clustering such as [elbow method for selecting optimal number of clusters](https://predictivehacks.com/k-means-elbow-method-code-for-python/).
