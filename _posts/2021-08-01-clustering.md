@@ -62,11 +62,15 @@ Performance measure for clustering algorithm is a subjective matter. In a easier
 
 The following results uses [Adujusted Rand Score/Index (ARI)](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.adjusted_rand_score.html) ARI is **symmetric**. This score penalize the behavior for dividing one cluster into smaller clusters. For example, 
 
-```
->>> adjusted_rand_score([0, 0, 1, 1], [0, 0, 1, 2])
+```python
+# ARI examples
+from sklearn.metrics.cluster import adjusted_rand_score
+>>> adjusted_rand_score([0, 0, 1, 2], [0, 0, 1, 1])
  0.57
-```
-```
+
+>>> adjusted_rand_score([0, 0, 1, 2], [0, 0, 1, 0])
+0.33 
+
 >>> adjusted_rand_score([0, 0, 0, 0], [0, 1, 2, 3])
 0.0
 ```
