@@ -76,4 +76,4 @@ In this example, since k-means tends to have the over-dividing behavior, its ARI
 <img src='/images/blog_tsclustering/ari_score.png'>
 
 
-Other metrics include Normalized Mutual Information (NMI), and some metrics do not require label. 
+Other metrics include Normalized Mutual Information [(NMI)](https://course.ccs.neu.edu/cs6140sp15/7_locality_cluster/Assignment-6/NMI.pdf), and some metrics do not require label. 
