@@ -84,4 +84,4 @@ Other metrics include Normalized Mutual Information [(NMI)](https://course.ccs.n
 
 <img src='/images/blog_tsclustering/NMI_score.png'>
 
-Additional readings regarding clustering such as elbow method for selecting optimal number of clusters.
+Additional readings regarding clustering such as [elbow method for selecting optimal number of clusters](https://predictivehacks.com/k-means-elbow-method-code-for-python/).
