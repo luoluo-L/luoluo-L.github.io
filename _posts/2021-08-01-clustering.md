@@ -54,3 +54,26 @@ Among three methods, when increasing the number of clusteres, k-means generates 
 Here is a visualization of varing the number of clusters for three methods. At the start, when the number of clusters ```nc = 2```, all three methods give similar clustering results. While increasing ```nc```, K-means method doesn't start dividing majority cluster: Cluster 2 until nc is very large at ```nc=6```. Overall, DBA and Soft-DTW have very similar results, especially when number of clusters is small.
 
 <img src='/images/blog_tsclustering/num_clusters.gif'>
+
+
+**Performance measurements**
+
+Performance measure for clustering algorithm is a subjective matter. In a easier case if there is true label, which may not be true for a lot of applications, there are measures can be used. 
+
+The following results uses [Adujusted Rand Score/Index (ARI)](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.adjusted_rand_score.html) ARI is **symmetric**. This score penalize the behavior for dividing one cluster into smaller clusters. For example, 
+
+```
+>>> adjusted_rand_score([0, 0, 1, 1], [0, 0, 1, 2])
+ 0.57
+```
+```
+>>> adjusted_rand_score([0, 0, 0, 0], [0, 1, 2, 3])
+0.0
+```
+
+In this example, since k-means tends to have the over-dividing behavior, its ARI drops faster than other DTW-based methods.
+
+<img src='/images/blog_tsclustering/ari_score.png'>
+
+
+Other metrics include Normalized Mutual Information (NMI), and some metrics do not require label. 
