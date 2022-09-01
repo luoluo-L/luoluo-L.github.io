@@ -71,7 +71,7 @@ The following results uses [Adujusted Rand Score/Index (ARI)](https://scikit-lea
 0.0
 ```
 
-In this example, since k-means tends to have the over-dividing behavior, its ARI drops faster than other DTW-based methods.
+In this example, since k-means tends to have the over-dividing behavior, its ARI drops faster than other DTW-based methods. It also explains that small number of clusters ```nc``` scores better in terms of ARI.
 
 <img src='/images/blog_tsclustering/ari_score.png'>
 
