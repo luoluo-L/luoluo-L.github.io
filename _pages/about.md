@@ -25,7 +25,7 @@ redirect_from:
 
 Use cases: enhance music sounds, de-identification purposes for sensitive data 
 
-**Annoying alarm noise removal** [**demo**](https://www.youtube.com/watch?v=Iaqf7y_t3PQ&list=PLstUCbTJuRiAQYwimpw9pslrsarsWYAx7&ab_channel=HappyDancing) with the comparison of clips from original and processed video.
+**Annoying alarm noise removal** [**demo**](https://youtu.be/D98cdaUBXFA) with the comparison of clips from original and processed video.
 
 ### New Algorithm Innovations:
 [MSAR: interpretable framework to identify comorbidities associated with ED and in-patient recurrent visits](../_publications/2022-03-12-msar_rp.md)
