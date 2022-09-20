@@ -60,7 +60,22 @@ Here is a visualization of varing the number of clusters for three methods. At t
 
 Performance measure for clustering algorithm is a subjective matter. In a easier case if there is true label, which may not be true for a lot of applications, there are measures can be used. 
 
-The following results uses [Adujusted Rand Score/Index (ARI)](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.adjusted_rand_score.html) ARI is **symmetric**. This score penalize the behavior for dividing one cluster into smaller clusters. For example, 
+The following results uses [Adujusted Rand Score/Index (ARI)](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.adjusted_rand_score.html) ARI is **symmetric**. 
+
+In this example, since k-means tends to have the over-dividing behavior, its ARI drops faster than other DTW-based methods. It also explains that small number of clusters ```nc``` scores better in terms of ARI.
+
+<img src='/images/blog_tsclustering/ari_score.png' width='400'>
+
+
+Other metrics include Normalized Mutual Information [(NMI)](https://course.ccs.neu.edu/cs6140sp15/7_locality_cluster/Assignment-6/NMI.pdf). In this cases, NMI suggests consistent favor of DTW-based methods compared to k-means varing number of clusters.  
+
+<img src='/images/blog_tsclustering/NMI_score.png' width='400'>
+
+Additional readings regarding clustering such as [elbow method for selecting optimal number of clusters](https://predictivehacks.com/k-means-elbow-method-code-for-python/).
+
+Appendix: 
+
+Example of ARI score: it penalizes the behavior for dividing one cluster into smaller clusters. For example, 
 
 ```python
 # ARI examples
@@ -74,14 +89,3 @@ from sklearn.metrics.cluster import adjusted_rand_score
 >>> adjusted_rand_score([0, 0, 0, 0], [0, 1, 2, 3])
 0.0
 ```
-
-In this example, since k-means tends to have the over-dividing behavior, its ARI drops faster than other DTW-based methods. It also explains that small number of clusters ```nc``` scores better in terms of ARI.
-
-<img src='/images/blog_tsclustering/ari_score.png' width='600'>
-
-
-Other metrics include Normalized Mutual Information [(NMI)](https://course.ccs.neu.edu/cs6140sp15/7_locality_cluster/Assignment-6/NMI.pdf). In this cases, NMI suggests consistent favor of DTW-based methods compared to k-means varing number of clusters.  
-
-<img src='/images/blog_tsclustering/NMI_score.png' width='600'>
-
-Additional readings regarding clustering such as [elbow method for selecting optimal number of clusters](https://predictivehacks.com/k-means-elbow-method-code-for-python/).
