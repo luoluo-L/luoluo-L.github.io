@@ -9,6 +9,6 @@ This is a tutorial for analyzing audio MNIST (digits) dataset
 
 Completed Tutorial chapters:
 ---
-[Chapter 1: Description of dataset and statistics on duration](./audio_mnist_posts/description_of_dataset.md)   
+[Chapter 1: Description of dataset and statistics on duration](../_posts/audio_mnist_posts/description_of_dataset.md)   
 
-[Chapter 2: Different training testing set split stragedy: randomly vs by speakers](audio_mnist_posts/different_training_stragedies.md)  
+[Chapter 2: Different training testing set split stragedy: randomly vs by speakers](./audio_mnist_posts/different_training_stragedies.md)  
