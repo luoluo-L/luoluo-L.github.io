@@ -1,13 +1,13 @@
 ---
 title: 'Tutorial for audio MNIST dataset'
-date: 2022-09-17
+date: 2022-09-30
 tags:
     - audio signal processing
     - classification
 ---
 This is a tutorial for analyzing audio MNIST (digits) dataset 
 
-Completed Tutorial chapters:
+Completed chapters:
 ---
 [Chapter 1: Description of dataset and statistics on duration](../_posts/audio_mnist_posts/description_of_dataset.md)   
 
