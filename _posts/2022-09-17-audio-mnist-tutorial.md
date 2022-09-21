@@ -1,11 +1,11 @@
 ---
 title: 'Tutorial for audio MNIST dataset'
 date: 2022-09-17
-permalink: /posts/2022/09/blog-audio-mnist/
 tags:
     - audio signal processing
     - classification
 ---
+This is a tutorial for analyzing audio MNIST (digits) dataset 
 
 
 Completed Tutorial chapters:
