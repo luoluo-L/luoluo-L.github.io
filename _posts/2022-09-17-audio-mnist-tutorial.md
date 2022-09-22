@@ -12,3 +12,6 @@ Completed chapters:
 [Chapter 1: Description of dataset and statistics on duration](description_of_dataset.md)   
 
 [Chapter 2: Different training testing set split stragedy: randomly vs by speakers](2022-09-20-different_training_stragedies.md)  
+
+
+[Chapter 2: Different training testing set split stragedy: randomly vs by speakers](different_training_stragedies)  

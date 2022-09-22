@@ -1,6 +1,6 @@
 ---
 title: 'Different training testing set split stragedy: randomly vs by speakers'
-permalink: /audio-mnist-tutorial/2022-09-20-different_training_stragedies.md
+permalink: /audio-mnist-tutorial/different_training_stragedies/
 date: 2022-09-20
 tags:
     - audio signal processing
@@ -27,7 +27,7 @@ We plot the performance metric F1 score (micro) for multi-class classification, 
 
 Here is the training performance (Top) and testing performance (Bottom). Training performances for two splitting scheme are relatively similar, especially around stable performance with increasing number of epochs. However, the testing performance for split for speakers suffers much more compared to random splitting. For split randomly, stable testing performance is around 0.85 whereas for split by speakers, the stable test performance is around 0.6 for the same number of total 40 epochs.
 
-<img src='figures/two_train_test_split_methods_train.png' width = '600'>
+<img src='./audio_mnist_posts/figures/two_train_test_split_methods_train.png' width = '600'>
 
 
 
