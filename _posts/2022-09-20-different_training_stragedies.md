@@ -1,5 +1,6 @@
 ---
 title: 'Different training testing set split stragedy: randomly vs by speakers'
+permalink: /audio-mnist-tutorial/2022-09-20-different_training_stragedies.md
 date: 2022-09-20
 tags:
     - audio signal processing
