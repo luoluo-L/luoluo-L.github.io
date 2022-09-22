@@ -1,5 +1,8 @@
 ---
 title: 'Audio MNIST data description and statistic analysis on durations'
+date: 2022-09-20
+tags:
+    - audio signal processing
 ---
 
 <!--
@@ -14,14 +17,14 @@ Distribution of duration (in seconds) across labels (digits) and speakers
 
 
 Distribution of duration boxplot by digits (labels). Overall, the majority of audios for all digits duration is around 0.2-0.8 seconds. 
-<img src='figures/duration_by_digit.png' width = '500'>
+<img src='./audio_mnist_posts/figures/duration_by_digit.png' width = '500'>
 
 
 Distribution of duration boxplot by speakers. Audios from the last three speakers ('nicolas', 'theo' and 'yweweler') have similar durations and relatively shorter. 
 
-<img src='figures/duration_by_speaker.png' width = '500'>
+<img src='./audio_mnist_posts/figures/duration_by_speaker.png' width = '500'>
 
 
 Two outliers in this dataset with extra long duration:
 
-<img src='figures/get_outliers.PNG' width = '500'>
+<img src='./audio_mnist_posts/figures/get_outliers.PNG' width = '500'>

@@ -1,5 +1,11 @@
 ---
 title: 'Different training testing set split stragedy: randomly vs by speakers'
+date: 2022-09-20
+tags:
+    - audio signal processing
+    - classification
+---
+
 ---
 
 <!--
