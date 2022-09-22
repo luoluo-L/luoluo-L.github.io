@@ -27,14 +27,14 @@ We plot the performance metric F1 score (micro) for multi-class classification, 
 
 Here is the training performance (Top) and testing performance (Bottom). Training performances for two splitting scheme are relatively similar, especially around stable performance with increasing number of epochs. However, the testing performance for split for speakers suffers much more compared to random splitting. For split randomly, stable testing performance is around 0.85 whereas for split by speakers, the stable test performance is around 0.6 for the same number of total 40 epochs.
 
-<img src='./audio_mnist_posts/figures/two_train_test_split_methods_train.png' width = '600'>
+<img src='../_posts/audio_mnist_posts/figures/two_train_test_split_methods_train.png' width = '600'>
 
 
 
-<img src='figures/two_train_test_split_methods_test.png' width = '600'>
+<img src='../_posts/audio_mnist_posts/figures/two_train_test_split_methods_test.png' width = '600'>
 
 
 
 The main implementation for these two methods is as follows:
-<img src='figures/train_test_split_methods.PNG' width = '600'>
+<img src='../_posts/audio_mnist_posts/figures/train_test_split_methods.PNG' width = '600'>
 
