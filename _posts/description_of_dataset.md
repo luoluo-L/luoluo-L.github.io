@@ -1,7 +1,7 @@
 ---
 title: 'Audio MNIST data description and statistic analysis on durations'
 date: 2022-09-20
-permalink: /audio-mnist-tutorial/description_of_dataset.md
+permalink: /audio-mnist-tutorial/description_of_dataset/
 tags:
     - audio signal processing
 ---
