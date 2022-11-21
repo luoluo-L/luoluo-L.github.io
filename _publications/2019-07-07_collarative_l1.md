@@ -16,6 +16,11 @@ tags:
 
 ---
 
+In this proposal, we solve a sparse optimization using collaborative methods. We bootstrap from observations and impose constraint to encourage solutions having similar locations activated (non-zeros). A diagram of the scheme is shown as follows.
+
+<img src='/images/collab_l1/proposed_diagram.png' width='600'>
+
+
 
 Illustration of three solutions:
 <img src='/images/collab_l1/bagging.png' width='600'>
