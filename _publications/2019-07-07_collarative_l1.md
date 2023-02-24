@@ -22,7 +22,9 @@ In this proposal, we solve a sparse optimization using collaborative methods. We
 
 
 
+
 Illustration of three solutions:
+
 <img src='/images/collab_l1/bagging.png' width='600'>
 
 <img src='/images/collab_l1/bolasso.png' width='600'>
