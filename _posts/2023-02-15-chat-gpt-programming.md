@@ -41,7 +41,6 @@ I create a simulation as the following:
  <!--- Here is a picture of the example folder:
  
   <br/><img src='/images/chat_gpt/folder.PNG' width = "300"> 
-
 --->
  
  Next, I start with 
@@ -62,3 +61,8 @@ I create a simulation as the following:
 
 6. Debug through chatGPT by asking for fixing the problem by providing the absolute path.
 
+ <br/><img src='/images/chat_gpt/chat_gpt_debug.PNG' width = "500"> 
+
+Bug fixed! Index page successfully links to webpages!
+
+ <br/><img src='/images/chat_gpt/first.PNG' width = "300">  <img src='/images/chat_gpt/revised.PNG' width = "300"> 
