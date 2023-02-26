@@ -1,5 +1,5 @@
 ---
-title: 'Chat-GPT assist programming tasks (a simple demo included)'
+title: 'Chat-GPT assists programming tasks (a simple demo included)'
 date: 2023-02-15
 permalink: /posts/2023/02/blog-post-1
 tags:
