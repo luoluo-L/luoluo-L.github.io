@@ -65,4 +65,4 @@ I create a simulation as the following:
 
 Bug fixed! Index page successfully links to webpages!
 
- <br/><img src='/images/chat_gpt/first.PNG' width = "300">  <img src='/images/chat_gpt/revised.PNG' width = "300"> 
+ <br/><img src='/images/chat_gpt/first.PNG' width = "300">  <img src='/images/chat_gpt/revisied.PNG' width = "300"> 
