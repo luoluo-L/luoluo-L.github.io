@@ -38,10 +38,10 @@ I create a simulation as the following:
    <br/> ``` --> sample_html_4.html ```
     
 
- <!--- Here is a picture of the example folder:
+ <!-- Here is a picture of the example folder:
  
   <br/><img src='/images/chat_gpt/folder.PNG' width = "300"> 
---->
+-->
  
  Next, I start with 
 
