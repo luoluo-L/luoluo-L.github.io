@@ -32,10 +32,10 @@ I create a simulation as the following:
 2. generate multiple coples of the sample file and put it in a folder named ``` test_folder_html_files ```. 
   
   ``` test_folder_html_files ```
-    ``` --> sample_html_1.html ```
-    ``` --> sample_html_2.html ```
-    ``` --> sample_html_3.html ```
-    ``` --> sample_html_4.html ```
+   <br/>``` --> sample_html_1.html ```
+   <br/>``` --> sample_html_2.html ```
+   <br/>``` --> sample_html_3.html ```
+   <br/> ``` --> sample_html_4.html ```
     
 
   Here is a picture of the example folder:
