@@ -30,6 +30,9 @@ I create a simulation as the following:
 <br/><img src='/images/chat_gpt/example.PNG' width="500" >
 
 2. generate multiple coples of the sample file and put it in a folder named ``` test_folder_html_files ```. 
+  Here is a picture of the example folder:
+ 
+ <br/><img src='/images/chat_gpt/folder.PNG' width = "200"> 
 
  
  Next, I start with 
@@ -37,4 +40,5 @@ I create a simulation as the following:
  <br/><img src='/images/chat_gpt/chat_gpt_request.PNG' width = "500"> 
 
  
+3. Here is the generated index page after running the python code ChatGPT creates:
 
