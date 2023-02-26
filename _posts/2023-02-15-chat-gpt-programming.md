@@ -1,5 +1,5 @@
 ---
-title: 'Chat-GPT assists programming tasks (a simple demo included)'
+title: 'Chat-GPT assists programming and debugging'
 date: 2023-02-15
 permalink: /posts/2023/02/blog-post-1
 tags:
@@ -38,10 +38,9 @@ I create a simulation as the following:
    <br/> ``` --> sample_html_4.html ```
     
 
- 
- Next, I start with 
+  Next, I start with 
 
- <br/><img src='/images/chat_gpt/chat_gpt_request.PNG' width = "500"> 
+  <br/><img src='/images/chat_gpt/chat_gpt_request.PNG' width = "500"> 
 
  
 3. Here is the generated index page after running the python code ChatGPT creates:
@@ -59,6 +58,6 @@ I create a simulation as the following:
 
  <br/><img src='/images/chat_gpt/chat_gpt_debug.PNG' width = "500"> 
 
-Bug fixed! Index page successfully links to webpages!
+  Bug fixed! Index page successfully links to webpages!
 
  <br/><img src='/images/chat_gpt/first.PNG' width = "300">  <img src='/images/chat_gpt/revisied.PNG' width = "300"> 
