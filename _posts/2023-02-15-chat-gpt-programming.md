@@ -30,17 +30,19 @@ I create a simulation as the following:
 <br/><img src='/images/chat_gpt/example.PNG' width="500" >
 
 2. generate multiple coples of the sample file and put it in a folder named ``` test_folder_html_files ```. 
+  
+  ``` test_folder_html_files ```
+    ``` --> sample_html_1.html ```
+    ``` --> sample_html_2.html ```
+    ``` --> sample_html_3.html ```
+    ``` --> sample_html_4.html ```
+    
+
   Here is a picture of the example folder:
  
-  <br/><img src='/images/chat_gpt/folder.PNG' width = "200"> 
+  <br/><img src='/images/chat_gpt/folder.PNG' width = "300"> 
 
-    ```
-    test_folder_html_files
-    --> sample_html_1.html
-    --> sample_html_2.html
-    --> sample_html_3.html
-    --> sample_html_4.html
-    ```
+
  
  Next, I start with 
 
