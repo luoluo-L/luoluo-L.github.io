@@ -46,10 +46,9 @@ Application area of this paper: ED, inpatient recurrent patients
 
 
 
-### New blogs:
-Blogs about data science and machine learning.
+### blogs are about data science and machine learning.
 
-### New Miscellaneous:
+### Miscellaneous:
 
 Original card design. Best wishes to the year 2022. Copyright protected.
  <br/><img src='/images/misc/best_wishes_4_2022.gif' width='400'>
