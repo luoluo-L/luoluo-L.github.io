@@ -11,11 +11,12 @@ tags:
 How Chat-gpt from Open-AI going to affect our day-to-day work?
 
 If you need to program in your day to day work, consider having ChatGPT as part of it.
-If you have not tried it yet, it will be fun to give it a try!
+If you have not tried it yet, it will be fun to give it a try! 
+**Chat-GPT can help you write and Debug code!**
 
 Here is a figure comparing conventional developer workflow. 
 
-<br/><img src='/images/chat_gpt/flowchart_chatgpt_program.PNG' width="500" >
+<br/><img src='/images/chat_gpt/flowchart_chatgpt_program.png' width="500" >
 
 
 Demo time :) 
