@@ -23,6 +23,8 @@ redirect_from:
 
 **Text search and keyword summary for powerpoints**: [repo](https://github.com/luoluo-L/search_keywords_pptx). 
 
+[**blog of Chat-GPT assist programing and debugging**](https://luoluo-l.github.io/posts/2023/02/blog-post-1)
+
 **Audiences cheering speech removal**:
 [original video](https://www.youtube.com/watch?v=Sw-jcAwgsOY&list=PLstUCbTJuRiAOjbUcDEg0991IZrDh3KNg&index=3&ab_channel=HappyDancing) with audiences cheering, and the [processed video](https://www.youtube.com/watch?v=iYp-ROvl_KE&list=PLstUCbTJuRiAOjbUcDEg0991IZrDh3KNg&index=7&ab_channel=HappyDancing) that removes audiences cheering. 
 
