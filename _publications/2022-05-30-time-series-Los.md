@@ -9,7 +9,7 @@ tags:
   - LSTM
 ---
 
-We propose to a dynamic, real-time, lightweight, end-to-end next day median ED-LoS prediction algorithm using time-series LSTM modelling. Similar method can be extended to unit-level KPI prediction.  [Summary](http://luoluo-l.github.io/files/amia_cic.pdf)
+a dynamic, real-time, **deployment-friendly, lightweight**, end-to-end next day median ED-LoS prediction algorithm using time-series LSTM modelling.  [Summary](http://luoluo-l.github.io/files/amia_cic.pdf)
 
 
 Background
