@@ -63,3 +63,6 @@ Conclusion
 We propose to a dynamic, real-time, lightweight, end-to-end next day median ED-LoS prediction algorithm using
 time-series LSTM modelling. The model behaves well with low prediction error, predicting both trends and high
 median ED-LoS events well. The output of the model provides early warning information to ED managers to take proactive actions for reducing future ED-LoS.
+
+
+[Download Summary](http://luoluo-l.github.io/files/amia_cic.pdf)
