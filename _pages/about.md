@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "luoluo's personal website [(resume)](http://luoluo-l.github.io/files/resume_lll_aug_2022.pdf)"
+title: "luoluo's personal website [(resume)](http://luoluo-l.github.io/files/resumes/resume_lll_02_2023.pdf) 
+[work samples](https://luoluo-l.github.io/files/portfolio.pdf)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
