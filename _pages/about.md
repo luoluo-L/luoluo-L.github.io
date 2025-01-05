@@ -22,7 +22,7 @@ redirect_from:
 
 ## New Demos: 
 
-**Computer Vision example** 
+**Computer Vision example** https://www.youtube.com/watch?v=gALCb0GPQQg
 
 **Text search and keyword summary for powerpoints**: [repo](https://github.com/luoluo-L/search_keywords_pptx). 
 
