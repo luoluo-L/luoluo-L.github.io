@@ -22,6 +22,8 @@ redirect_from:
 
 ## New Demos: 
 
+**Computer Vision example** 
+
 **Text search and keyword summary for powerpoints**: [repo](https://github.com/luoluo-L/search_keywords_pptx). 
 
 [**Chat-GPT assists programing and debugging**](https://luoluo-l.github.io/posts/2023/02/blog-post-1)
