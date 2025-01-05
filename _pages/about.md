@@ -26,7 +26,7 @@ redirect_from:
 
 Use cases: enhance music sounds, de-identification purposes for sensitive data 
 
-**Annoying alarm noise removal** [**demo**](https://youtu.be/D98cdaUBXFA) with the comparison of clips from original and processed video.
+**Annoying alarm noise removal** [**demo**](https://youtu.be/D98cdaUBXFA) with the comparison before and after processing.
 
 ### New Algorithm Innovations:
 [MSAR: interpretable framework to identify comorbidities associated with ED and in-patient recurrent visits](../_publications/2022-03-12-msar_rp.md)
@@ -47,11 +47,12 @@ Various signal modalities: natural image processing, medical image processing,  
 Theoretical machine learning works on topics of emsamble methods in sparse optimizations.
 
 
-**the importance** of **Algorithm Innovations in Artifical Intelligence (AIAI)**? Just like customized made suit fits better to individual person compared to factory made suit, algorithm innovations provides customized algorithms to practical complex problems without a standarized text-book solution from off-the-shelf algorithm packages.
+What is **the importance** of **Algorithm Innovations in Artifical Intelligence (AIAI)**? Just like customized made suit fits better to individual person compared to factory made suit, algorithm innovations provides customized algorithms to practical complex problems without a standarized text-book solution from off-the-shelf algorithm packages.
 
 ### Miscellaneous:
-I wrote blogs are about data science and machine learning.
-I love ballroom dancing and art design.
+I write blogs about data science and machine learning.
+
+I love ballroom dancing and art designs.
 
 Original card design. Best wishes to the year 2022 that pandemic is going to be over. Copyright protected.
  <br/><img src='/images/misc/best_wishes_4_2022.gif' width='400'>
