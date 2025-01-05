@@ -24,7 +24,7 @@ redirect_from:
 **Audiences cheering speech removal**:
 [original video](https://www.youtube.com/watch?v=Sw-jcAwgsOY&list=PLstUCbTJuRiAOjbUcDEg0991IZrDh3KNg&index=3&ab_channel=HappyDancing) with audiences cheering, and the [processed video](https://www.youtube.com/watch?v=iYp-ROvl_KE&list=PLstUCbTJuRiAOjbUcDEg0991IZrDh3KNg&index=7&ab_channel=HappyDancing) that removes audiences cheering. 
 
-Use cases: enhance music sounds, de-identification purposes for sensitive data 
+Use cases: enhance music sounds, de-identify sensitive data 
 
 **Annoying alarm noise removal** [**demo**](https://youtu.be/D98cdaUBXFA) with the comparison before and after processing.
 
@@ -50,11 +50,11 @@ Theoretical machine learning works on topics of emsamble methods in sparse optim
 What is **the importance** of **Algorithm Innovations in Artifical Intelligence (AIAI)**? Just like customized made suit fits better to individual person compared to factory made suit, algorithm innovations provides customized algorithms to practical complex problems without a standarized text-book solution from off-the-shelf algorithm packages.
 
 ### Miscellaneous:
-I write blogs about data science and machine learning.
+I write [blogs](https://luoluo-l.github.io/year-archive/) about data science and machine learning.
 
 I love ballroom dancing and art designs.
 
-Original card design. Best wishes to the year 2022 that pandemic is going to be over. Copyright protected.
+Original card design. "Best wishes to the year 2022： pandemic is going to be over!" Copyright protected.
  <br/><img src='/images/misc/best_wishes_4_2022.gif' width='400'>
  
 
