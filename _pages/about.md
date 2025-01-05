@@ -12,6 +12,7 @@ redirect_from:
 
 **Specialty**:  **Customized Artifical Intelligence AI system** and **Algorithm Innovations in Artifical Intelligence (AIAI)** for Computer Vision, time-series, audio, NLP
 
+
 ## New Demos: 
 
 **Computer Vision example** [Tracking from full-view video](https://www.youtube.com/watch?v=gALCb0GPQQg)
@@ -39,13 +40,7 @@ Application area of this paper: ED, inpatient recurrent patients
 
 
 
-### blogs are about data science and machine learning.
-
-
-
-**Experience Summary:** Ph.D. in Electrical and Computer Engineering and M.S. in Applied Mathematics and Statistics from Johns Hopkins University; working in healthcare industry for about $5+$ years.
-  
-10+ years experience in Algorithm Innovations in Artificial Intelligence & Signal Processing, ~20 AI algorithm innovations, 3 patents and 4 grant proposals;
+**Experience Summary:** Ph.D. in Electrical and Computer Engineering and M.S. in Applied Mathematics and Statistics from Johns Hopkins University; working in healthcare industry for $5+$ years. $10+$ years experience in Algorithm Innovations in Artificial Intelligence & Signal Processing. 
   
 Various signal modalities: natural image processing, medical image processing,  radio frequency signals, physiological time-series (vitals, labs, ECG, impedance, Co2), audio signals, Electronic Health Records;
 
@@ -55,10 +50,10 @@ Theoretical machine learning works on topics of emsamble methods in sparse optim
 **the importance** of **Algorithm Innovations in Artifical Intelligence (AIAI)**? Just like customized made suit fits better to individual person compared to factory made suit, algorithm innovations provides customized algorithms to practical complex problems without a standarized text-book solution from off-the-shelf algorithm packages.
 
 ### Miscellaneous:
-
+I wrote blogs are about data science and machine learning.
 I love ballroom dancing and art design.
 
-Original card design. Best wishes to the year 2022. Copyright protected.
+Original card design. Best wishes to the year 2022 that pandemic is going to be over. Copyright protected.
  <br/><img src='/images/misc/best_wishes_4_2022.gif' width='400'>
  
 
