@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 
-**Specialty**:  **Customized AI algorithm** and **Algorithm Innovations in Artifical Intelligence (AIAI)** for Computer Vision, time-series, audio, NLP
+**Specialty**:  **Customized Artifical Intelligence AI system** and **Algorithm Innovations in Artifical Intelligence (AIAI)** for Computer Vision, time-series, audio, NLP
 
 ## New Demos: 
 
