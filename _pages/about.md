@@ -21,8 +21,8 @@ redirect_from:
 
 [**Chat-GPT assists programing and debugging**](https://luoluo-l.github.io/posts/2023/02/blog-post-1)
 
-**Audiences cheering speech removal**:
-[original video](https://www.youtube.com/watch?v=Sw-jcAwgsOY&list=PLstUCbTJuRiAOjbUcDEg0991IZrDh3KNg&index=3&ab_channel=HappyDancing) with audiences cheering, and the [processed video](https://www.youtube.com/watch?v=iYp-ROvl_KE&list=PLstUCbTJuRiAOjbUcDEg0991IZrDh3KNg&index=7&ab_channel=HappyDancing) that removes audiences cheering. 
+**Spdeech removal**:
+[original video](https://www.youtube.com/watch?v=Sw-jcAwgsOY&list=PLstUCbTJuRiAOjbUcDEg0991IZrDh3KNg&index=3&ab_channel=HappyDancing) vs [processed video](https://www.youtube.com/watch?v=iYp-ROvl_KE&list=PLstUCbTJuRiAOjbUcDEg0991IZrDh3KNg&index=7&ab_channel=HappyDancing)
 
 Use cases: enhance music sounds, de-identify sensitive data 
 
