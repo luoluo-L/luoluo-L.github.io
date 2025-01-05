@@ -10,21 +10,13 @@ redirect_from:
 ---
 
 
-
-**Specialty**: 
-  
-  $\bullet$ **Customized AI algorithm** development service.
-
-  $\bullet$ **Algorithm Innovations in Artifical Intelligence (AIAI)** for various applications and signal modalities
-
-
-
+**Specialty**:  **Customized AI algorithm** and **Algorithm Innovations in Artifical Intelligence (AIAI)** for Computer Vision, time-series, audio, NLP
 
 ## New Demos: 
 
 **Computer Vision example** [Tracking from full-view video](https://www.youtube.com/watch?v=gALCb0GPQQg)
 
-**Text search and keyword summary for powerpoints**: [repo](https://github.com/luoluo-L/search_keywords_pptx). 
+**(Office Must-Haves) Text search and keyword summary engine for powerpoints**: [repo](https://github.com/luoluo-L/search_keywords_pptx). 
 
 [**Chat-GPT assists programing and debugging**](https://luoluo-l.github.io/posts/2023/02/blog-post-1)
 
@@ -43,9 +35,7 @@ Keywords: interpretable ML and, top-X factors identification method
 
 <img src='images/msar_rp/msar_ad.jpg' width='800'>
 
-
 Application area of this paper: ED, inpatient recurrent patients
-
 
 
 
