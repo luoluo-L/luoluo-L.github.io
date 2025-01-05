@@ -17,12 +17,12 @@ redirect_from:
 
   $\bullet$ **Algorithm Innovations in Artifical Intelligence (AIAI)** for various applications and signal modalities
 
-  What is **the importance** of **Algorithm Innovations in Artifical Intelligence (AIAI)**? Just like customized made suit fits better to individual person compared to factory made suit, algorithm innovations provides customized algorithms to practical complex problems without a standarized text-book solution from off-the-shelf algorithm packages.
+
 
 
 ## New Demos: 
 
-**Computer Vision example** https://www.youtube.com/watch?v=gALCb0GPQQg
+**Computer Vision example** [Tracking from full-view video](https://www.youtube.com/watch?v=gALCb0GPQQg)
 
 **Text search and keyword summary for powerpoints**: [repo](https://github.com/luoluo-L/search_keywords_pptx). 
 
@@ -66,6 +66,9 @@ Original card design. Best wishes to the year 2022. Copyright protected.
   Various signal modalities: natural image processing, medical image processing,  radio frequency signals, physiological time-series (vitals, labs, ECG, impedance, Co2), audio signals, Electronic Health Records;
 
   Theoretical machine learning works on topics of emsamble methods in sparse optimizations.
+
+
+**the importance** of **Algorithm Innovations in Artifical Intelligence (AIAI)**? Just like customized made suit fits better to individual person compared to factory made suit, algorithm innovations provides customized algorithms to practical complex problems without a standarized text-book solution from off-the-shelf algorithm packages.
 
 
 <!--
