@@ -15,24 +15,25 @@ redirect_from:
 
 ## New Demos: 
 
-**Computer Vision example** [Tracking from full-view video](https://www.youtube.com/watch?v=gALCb0GPQQg)
+**Computer Vision:** [Tracking from full-view video](https://www.youtube.com/watch?v=gALCb0GPQQg)
 
-**(Office Must-Haves) Text search and keyword summary engine for powerpoints**: [repo](https://github.com/luoluo-L/search_keywords_pptx). 
+**(Office Must-Have) Text search and keyword summary engine for powerpoints**: [repo](https://github.com/luoluo-L/search_keywords_pptx). 
 
-[**Chat-GPT assists programing and debugging**](https://luoluo-l.github.io/posts/2023/02/blog-post-1)
+[**Blog: Chat-GPT assists programing and debugging**](https://luoluo-l.github.io/posts/2023/02/blog-post-1)
 
-**Spdeech removal**:
+**Speech removal**, use cases: enhance music sounds, de-identify sensitive data 
+
 [original video](https://www.youtube.com/watch?v=Sw-jcAwgsOY&list=PLstUCbTJuRiAOjbUcDEg0991IZrDh3KNg&index=3&ab_channel=HappyDancing) vs [processed video](https://www.youtube.com/watch?v=iYp-ROvl_KE&list=PLstUCbTJuRiAOjbUcDEg0991IZrDh3KNg&index=7&ab_channel=HappyDancing)
-
-Use cases: enhance music sounds, de-identify sensitive data 
 
 **Annoying alarm noise removal** [**demo**](https://youtu.be/D98cdaUBXFA) with the comparison before and after processing.
 
 ### New Algorithm Innovations:
-[MSAR: interpretable framework to identify comorbidities associated with ED and in-patient recurrent visits](../_publications/2022-03-12-msar_rp.md)
-[1-page Summary](http://luoluo-l.github.io/files/EMBC2022_eposter_03.pdf)
 
 Keywords: interpretable ML and, top-X factors identification method
+
+[Publication: interpretable framework to identify comorbidities associated with ED and in-patient recurrent visits](../_publications/2022-03-12-msar_rp.md)
+[1-page Summary](http://luoluo-l.github.io/files/EMBC2022_eposter_03.pdf)
+
 
 <img src='images/msar_rp/msar_ad.jpg' width='800'>
 
@@ -45,7 +46,6 @@ Application area of this paper: ED, inpatient recurrent patients
 Various signal modalities: natural image processing, medical image processing,  radio frequency signals, physiological time-series (vitals, labs, ECG, impedance, Co2), audio signals, Electronic Health Records;
 
 Theoretical machine learning works on topics of emsamble methods in sparse optimizations.
-
 
 What is **the importance** of **Algorithm Innovations in Artifical Intelligence (AIAI)**? Just like customized made suit fits better to individual person compared to factory made suit, algorithm innovations provides customized algorithms to practical complex problems without a standarized text-book solution from off-the-shelf algorithm packages.
 
