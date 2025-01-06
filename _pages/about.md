@@ -19,26 +19,23 @@ redirect_from:
 
 **(Office Must-Have) Text search and keyword summary engine for powerpoints**: [repo](https://github.com/luoluo-L/search_keywords_pptx). 
 
-[**Blog: Chat-GPT assists programing and debugging**](https://luoluo-l.github.io/posts/2023/02/blog-post-1)
+**Chat-GPT assists programing and debugging:** [Blog](https://luoluo-l.github.io/posts/2023/02/blog-post-1)
 
 **Speech removal**, use cases: enhance music sounds, de-identify sensitive data 
 
-[original video](https://www.youtube.com/watch?v=Sw-jcAwgsOY&list=PLstUCbTJuRiAOjbUcDEg0991IZrDh3KNg&index=3&ab_channel=HappyDancing) vs [processed video](https://www.youtube.com/watch?v=iYp-ROvl_KE&list=PLstUCbTJuRiAOjbUcDEg0991IZrDh3KNg&index=7&ab_channel=HappyDancing)
+Demo: [original video](https://www.youtube.com/watch?v=Sw-jcAwgsOY&list=PLstUCbTJuRiAOjbUcDEg0991IZrDh3KNg&index=3&ab_channel=HappyDancing) vs [processed video](https://www.youtube.com/watch?v=iYp-ROvl_KE&list=PLstUCbTJuRiAOjbUcDEg0991IZrDh3KNg&index=7&ab_channel=HappyDancing)
 
-**Annoying alarm noise removal** [**demo**](https://youtu.be/D98cdaUBXFA) with the comparison before and after processing.
+**Annoying alarm sound removal** [**demo**](https://youtu.be/D98cdaUBXFA) with the comparison before and after processing.
 
 ### New Algorithm Innovations:
 
 Keywords: interpretable ML and, top-X factors identification method
 
 [Publication: interpretable framework to identify comorbidities associated with ED and in-patient recurrent visits](../_publications/2022-03-12-msar_rp.md)
-[1-page Summary](http://luoluo-l.github.io/files/EMBC2022_eposter_03.pdf)
+[(1-page Summary)](http://luoluo-l.github.io/files/EMBC2022_eposter_03.pdf)
 
 
 <img src='images/msar_rp/msar_ad.jpg' width='800'>
-
-Application area of this paper: ED, inpatient recurrent patients
-
 
 
 **Experience Summary:** Ph.D. in Electrical and Computer Engineering and M.S. in Applied Mathematics and Statistics from Johns Hopkins University; working in healthcare industry for $5+$ years. $10+$ years experience in Algorithm Innovations in Artificial Intelligence & Signal Processing. 
