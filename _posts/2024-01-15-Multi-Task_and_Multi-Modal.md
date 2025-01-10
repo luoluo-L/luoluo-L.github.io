@@ -8,8 +8,16 @@ tags:
   - MTL&MML
 ---
 
-Multi-task Learning: 
-Multi-modal Learning: 
+Multi-task Learning: multiple learning tasks are solved at the same time, while exploiting commonalities and differences across tasks.
+
+Multi-modal Learning: a field that integrates and processes multiple types of data. 
+
+The following flowchart demostrate Multi-tasking and Multi-modal learning. 
+
+<br/><img src='/images/mtl_mml/mtl.png' width="500" >
+
+<br/><img src='/images/mtl_mml/mml.png' width="500" >
+
 
 **Multi-task Learning Code Sample**
 
@@ -39,10 +47,6 @@ def build_multi_task_model(input_shape, num_classes):
     
     return model
 
-
-# Model configuration
-input_shape = (10,)  # Example input size (e.g., 10 features)
-num_classes = 3     # Example number of classes for classification
 
 # Build the model
 model = build_multi_task_model(input_shape, num_classes)
