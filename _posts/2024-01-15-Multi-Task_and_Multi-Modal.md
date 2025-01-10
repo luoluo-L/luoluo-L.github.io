@@ -3,9 +3,9 @@ title: 'Multi-task learning and Multi-Modal learning'
 date: 2024-01-15
 permalink: /posts/2024/01/blog-post-1
 tags:
-  - cool posts
-  - category1
-  - category2
+  - Multi-Task Learning (MTL)
+  - Multi-Modal Learning (MML)
+  - MTL&MML
 ---
 
 Multi-task Learning: 
@@ -13,7 +13,7 @@ Multi-modal Learning:
 
 **Multi-task Learning Code Sample**
 
-```
+```python
 # multi-task learning 
 
 import tensorflow as tf
@@ -60,11 +60,45 @@ model.summary()
 
 **Multi-Modal Learning Code Sample**
 
+```python
+import tensorflow as tf
+import numpy as np
+
+# Define the shared layer
+shared_layer = tf.keras.layers.Dense(32, activation='relu')
+
+# Create two input layers
+input1 = tf.keras.Input(shape=(10,))
+input2 = tf.keras.Input(shape=(10,))
+
+# seperate feature encodings 
+feature1 = tf.keras.layers.Dense(5, activation = 'relu')(input1)
+feature2 = tf.keras.layers.Dense(5, activation = 'relu')(input2)
+
+# Apply the shared layer to both inputs
+x1 = shared_layer(feature1)
+x2 = shared_layer(feature2)
+
+# Further processing for each branch
+x1 = tf.keras.layers.Dense(16, activation='relu')(x1)
+x2 = tf.keras.layers.Dense(16, activation='relu')(x2)
+
+# Combine feature maps from  
+concatinate_feature_map = tf.keras.layers.Concatenate()([x1, x2])
+
+output = tf.keras.layers.Dense(1, activation = 'sigmoid')(concatinate_feature_map)
+
+
+# Create the model
+model = tf.keras.Model(inputs=[input1, input2], outputs=output)
+
+model.summary()
+```
 
 
 **Multi-Task and Multi-Modal Learning**
 
-```
+```python
 import tensorflow as tf
 import numpy as np
 
