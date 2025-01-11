@@ -8,9 +8,7 @@ tags:
   - MTL&MML
 ---
 
-Multi-task Learning: multiple learning tasks are solved at the same time, while exploiting commonalities and differences across tasks.
-
-Multi-modal Learning: a field that integrates and processes multiple types of data. 
+Multi-task Learning solves multiple tasks at one time, while exploiting commonalities and differences across tasks. Multi-modal Learning integrates and processes multiple types of data in one framework. 
 
 The following flowchart demostrate Multi-tasking and Multi-modal learning, and Multi-task, Multi-modal learning. 
 
