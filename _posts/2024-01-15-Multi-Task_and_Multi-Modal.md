@@ -12,11 +12,13 @@ Multi-task Learning: multiple learning tasks are solved at the same time, while 
 
 Multi-modal Learning: a field that integrates and processes multiple types of data. 
 
-The following flowchart demostrate Multi-tasking and Multi-modal learning. 
+The following flowchart demostrate Multi-tasking and Multi-modal learning, and Multi-task, Multi-modal learning. 
 
 <br/><img src='/images/mtl_mml/mtl.png' width="500" >
 
-<br/><img src='/images/mtl_mml/mml.png' width="500" >
+<br/><img src='/images/mtl_mml/mml.png' width="600" >
+
+<br/><img src='/images/mtl_mml/mtl_mml.png' width="600" >
 
 
 **Multi-task Learning Code Sample**
