@@ -14,10 +14,13 @@ Multi-modal Learning: a field that integrates and processes multiple types of da
 
 The following flowchart demostrate Multi-tasking and Multi-modal learning, and Multi-task, Multi-modal learning. 
 
+Multl-Task Learning:
 <br/><img src='/images/mtl_mml/mtl.png' width="500" >
 
+Multi-Modal Learning
 <br/><img src='/images/mtl_mml/mml.png' width="600" >
 
+Multi-Modal & Multi-Task Learning
 <br/><img src='/images/mtl_mml/mtl_mml.png' width="800" >
 
 
