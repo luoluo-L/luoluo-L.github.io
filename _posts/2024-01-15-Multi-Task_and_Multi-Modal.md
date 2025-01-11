@@ -18,7 +18,7 @@ The following flowchart demostrate Multi-tasking and Multi-modal learning, and M
 
 <br/><img src='/images/mtl_mml/mml.png' width="600" >
 
-<br/><img src='/images/mtl_mml/mtl_mml.png' width="600" >
+<br/><img src='/images/mtl_mml/mtl_mml.png' width="800" >
 
 
 **Multi-task Learning Code Sample**
