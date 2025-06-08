@@ -14,6 +14,7 @@ redirect_from:
 
 
 ## New Demos: 
+**Wearable EDA Quality Index model** Summary [here](https://luoluo-l.github.io/year-archive/). Improvement of SOTA by $8\%$. Manuscript working in progress.
 
 **Computer Vision:** [Tracking from full-view video](https://www.youtube.com/watch?v=gALCb0GPQQg)
 
