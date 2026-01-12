@@ -14,7 +14,7 @@ redirect_from:
 
 
 ## New Demos: 
-**Wearable EDA Quality Index model** Summary [here](https://luoluo-l.github.io/posts/2025/10/blog-post-4). Improvement of SOTA by $8\%$. 
+**Wearable EDA Quality Index model** [Summary](https://luoluo-l.github.io/posts/2025/10/blog-post-4). Improvement of SOTA by $8\%$ by Unsupervised Pre-Training. [Paper](http://luoluo-l.github.io/files/eda_draft_paper.pdf)
 
 **Computer Vision:** [Tracking from full-view video](https://www.youtube.com/watch?v=gALCb0GPQQg)
 
