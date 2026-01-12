@@ -14,7 +14,10 @@ redirect_from:
 
 
 ## New Demos: 
-**Wearable EDA Quality Index model** [Summary](https://luoluo-l.github.io/posts/2025/10/blog-post-4). Improvement of SOTA by $8\%$ by Unsupervised Pre-Training. [Paper](http://luoluo-l.github.io/files/eda_draft_paper.pdf)
+**Wearable GSR Quality Index model**: Improve SOTA by $8\%$ thru Unsupervised Pre-Training. [Summary](https://luoluo-l.github.io/posts/2025/10/blog-post-4) [Paper](http://luoluo-l.github.io/files/eda_draft_paper.pdf)
+
+<img src= 'images/eda_sqi/abstract_framework_wol_tall_narrower.png' width='800'>
+
 
 **Computer Vision:** [Tracking from full-view video](https://www.youtube.com/watch?v=gALCb0GPQQg)
 
